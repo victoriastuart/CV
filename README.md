@@ -195,7 +195,7 @@ University of British Columbia, Vancouver, B.C.<br>
 
 * Carcinogenesis Division, NCCRI Jan 18, 1996<br>
 National Cancer Center Research Institute, Tokyo, Japan<br>
-“A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue<sup>®</sup> transgenic mice, and aflatoxin B<sub>1<//sub> in Big Blue<sup>®</sup> mice and rats“
+“A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue<sup>®</sup> transgenic mice, and aflatoxin B<sub>1</sub> in Big Blue<sup>®</sup> mice and rats“
 
 ## PEER-REVIEWED PUBLICATIONS
 
@@ -211,7 +211,7 @@ Stuart, G.R., Copeland, W.C. and Strand, M.K. (2009) “Construction and Applica
 
 Stuart, G.R., Humble, M.M., Strand, M.K. and Copeland, W.C. (2009) “Transcriptional Response to Mitochondrial NADH Kinase Deficiency in Saccharomyces cerevisiae.“ Mitochondrion 9, 211-221.
 
-Stuart, G.R., Santos, J.H., Strand, M.K., Van Houten, B. and Copeland, W.C. (2006) “Mitochondrial and nuclear DNA defects in Saccharomyces cerevisiae with mutations in DNA polymerase $\gamma associated with progressive external ophthalmoplegia.“ Human Molecular Genetics 15, 363-374.
+Stuart, G.R., Santos, J.H., Strand, M.K., Van Houten, B. and Copeland, W.C. (2006) “Mitochondrial and nuclear DNA defects in Saccharomyces cerevisiae with mutations in DNA polymerase γ associated with progressive external ophthalmoplegia.“ Human Molecular Genetics 15, 363-374.
 
 Thornton, A.S., Oda, Y., Stuart, G.R., Holcroft, J. and de Boer, J.G. (2004) “The dioxin TCDD protects against aflatoxin-induced mutation in female rats, but not in male rats.“ Mutation Research 561, 147-152.
 
