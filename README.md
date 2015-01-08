@@ -31,17 +31,16 @@ University of British Columbia, Vancouver, British Columbia, Canada<br>
 Specialization: Molecular Epidemiology<br>
 Thesis: “Genotoxicity of Captan Measured in the Comet Assay“
 
-* B.Sc. with Honours, Biochemistry October 1983
-Dalhousie University, Halifax, Nova Scotia, Canada
-Minor: Chemistry
-Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis
-Precursor N6-Benzoyl-Deoxyadenosine“
+* B.Sc. with Honours, Biochemistry October 1983<vr>
+Dalhousie University, Halifax, Nova Scotia, Canada<br>
+Minor: Chemistry<br>
+Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis Precursor N^6-Benzoyl-Deoxyadenosine“
 
 ##CURRENT POSITION
 
 Computational Biologist Jan 2014 - present<br>
 Canada‘s Michael Smith Genome Sciences Centre, British Columbia Cancer Agency,<br>
-Suite 100, 570 W. 7th Ave., Vancouver, British Columbia. V5Z 4S6.
+Suite 100, 570 W. 7th Ave., Vancouver, British Columbia. V5Z 4S6
 
 ##RECENT AFFILIATIONS
 
@@ -203,7 +202,7 @@ University of British Columbia, Vancouver, B.C.<br>
 
 * Carcinogenesis Division, NCCRI Jan 18, 1996<br>
 National Cancer Center Research Institute, Tokyo, Japan<br>
-“A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue transgenic mice, and aflatoxin B1 in Big Blue mice and rats“
+“A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue transgenic mice, and aflatoxin B1 in Big Blue&reg mice and rats“
 
 ## PEER-REVIEWED PUBLICATIONS
 
@@ -229,7 +228,7 @@ Yang, H., Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Modulation of 2-
 
 Stuart, G.R., de Boer, J.G., Haesevoets, R., Holcroft, J., Kangas, J., Sojonky, K., Thorleifson, E., Thornton, A., Walsh, D.F., Yang, H. and Glickman, B.W. (2001) Mutations induced by 2-amino-1-methyl-6-phenylimidazo [4,5-b]pyridine (PhIP) in cecum and proximal and distal colon of lacI transgenic rats. Mutagenesis 16, 431-437.
 
-Thornton, A.S., Oda, Y., Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Mutagenicity of TCDD in Big Blue R transgenic rats. Mutation Research 478, 45-50.
+Thornton, A.S., Oda, Y., Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Mutagenicity of TCDD in Big Blue&reg transgenic rats. Mutation Research 478, 45-50.
 
 Stuart, G.R., Holcroft, J., de Boer, J.G. and Glickman, B.W. (2000) Prostate mutations in rats induced by the suspected human carcinogen 2-amino-1-methyl-6-phenylimidazo[ 4,5-b]pyridine. Cancer Research 60, 266-268.
 
@@ -241,14 +240,14 @@ Stuart, G.R. and Glickman, B.W. (2000) Through a glass, darkly: Reflections of m
 
 Stuart, G.R., Thorleifson, E., Okochi, E., de Boer, J.G., Ushijima, T., Nagao, M. and Glickman, B.W. (2000) Interpretation of mutational spectra from different genes: Analyses of PhIP-induced mutational specificity in the lacI and cII transgenes from colon of Big Blue rats. Mutation Research 452, 101-121.
 
-Stuart, G.R., Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue lacI Transgenic Rodents. Ph.D. Dissertation, University of Victoria, 1999.
+Stuart, G.R., Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue&reg lacI Transgenic Rodents. Ph.D. Dissertation, University of Victoria, 1999.
 
 Okonogi, H., Stuart, G.R., Okochi, E., Ushijima, T., Sugimura, T., Glickman, B.W. and Nagao, M. (1997) Effects of gender and species on spectra of mutation induced by 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine in the lacI transgene. Mutation Research 395, 93-99.
 
 Dycaico, M.J., Stuart, G.R., Tobal, G.M., de Boer, J.G., Glickman, B.W. and Provost, G.S. (1996) Species-specific differences in hepatic mutant frequency and mutational spectrum among lambda/lacI transgenic rats and mice following exposure to aflatoxin B1. Carcinogenesis 17, 2347-2356.
 
 Stuart, G.R., Gorelick, N.J., Andrews, J.L., de Boer, J.G. and Glickman, B.W. (1996)
-The genetic analysis of lacI mutations in sectored plaques from Big Blue R transgenic mice. Environmental and Molecular Mutagenesis 28, 385-392.
+The genetic analysis of lacI mutations in sectored plaques from Big Blue&reg transgenic mice. Environmental and Molecular Mutagenesis 28, 385-392.
 
 Mazur-Melnyk, M., Stuart, G.R. and Glickman, B.W. (1996) Benzo[a]pyrene diolepoxide induces loss of heterozygosity in a Chinese hamster ovary aprt heterozygote. Mutation Research 358, 89-96.
 
