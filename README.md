@@ -20,17 +20,15 @@ In pursuit of this objective – building on a thorough grounding in biochemistr
 
 ##EDUCATION
 
-* Ph.D., Biology June 2000
-University of Victoria, Victoria, British Columbia, Canada
+* Ph.D., Biology June 2000<br>
+University of Victoria, Victoria, British Columbia, Canada<br>
 Specialization: Molecular Genetics: Mechanisms of Mutagenesis & Carcinogenesis
-Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity
-in Big Blue
-R lacI Transgenic Rodents“
+Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue&reg lacI Transgenic Rodents“
 
-* M.Sc., Occupational Hygiene May 1995
-Occupational Hygiene Programme [now the School of Environmental Health]
-University of British Columbia, Vancouver, British Columbia, Canada
-Specialization: Molecular Epidemiology
+* M.Sc., Occupational Hygiene May 1995<br>
+Occupational Hygiene Programme [now the School of Environmental Health]<br>
+University of British Columbia, Vancouver, British Columbia, Canada<br>
+Specialization: Molecular Epidemiology<br>
 Thesis: “Genotoxicity of Captan Measured in the Comet Assay“
 
 * B.Sc. with Honours, Biochemistry October 1983
