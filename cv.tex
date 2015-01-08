@@ -1,1 +1,476 @@
-test
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Graduate Curriculum Vitae
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rensselaer Polytechnic Institute (http://www.rpi.edu/dept/arc/training/latex/resumes/)
+%
+% Important note:
+% This template requires the res.cls file to be in the same directory as the
+% .tex file. The res.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+% http://tex.stackexchange.com/questions/127886/keep-getting-aux-file-error-with-the-lastpage-package
+\let\nofiles\relax
+
+%\documentclass[margin, 10pt]{res} 
+\documentclass[margin]{res} % Use the res.cls style; can change font size here to 11pt or 12pt
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+% http://cambio.name/personal/content/how-use-arial-font-latex
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
+% used above to get Arial font, instead of Helvetica (below, commented-out)
+%\usepackage{helvet} % Default font is the helvetica postscript font
+%\usepackage{newcent} % To change the default font to the new century schoolbook postscript font uncomment this line and comment the one above
+
+% http://stackoverflow.com/questions/1398127/breaking-a-list-into-multiple-columns-in-latex
+\usepackage{multicol}
+
+\setlength{\textwidth}{5.2in} % Text width of the document
+
+% http://www.highschoolmathandchess.com/latex/change-the-page-style-numberingheaderfooter/
+% https://www.sharelatex.com/learn/Page_numbering
+% http://tex.stackexchange.com/questions/127886/keep-getting-aux-file-error-with-the-lastpage-package
+% https://www.sharelatex.com/learn/Headers_and_footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{lastpage}
+\lfoot{\textit{{\textcolor{Gray}{Dr. Victoria A. Stuart}}}}
+\cfoot{\textit{{\textcolor{Gray}{Curriculum vitae (v.2.3)}}}}
+\rfoot{\textit{{\textcolor{Gray}{Page \thepage \hspace{1pt} of \pageref{LastPage}}}}}
+% fancyfoot:
+% http://texblog.org/2007/11/07/headerfooter-in-latex-with-fancyhdr/
+% http://www.latex-community.org/forum/viewtopic.php?f=5&t=2341
+% This one suppresses page numbers in center of footer:
+%\fancyfoot[C]{}
+\pagenumbering{arabic}
+% the fancey pagestyle adds a horiz rule at the bottom of the header; this removes it:
+% http://tex.stackexchange.com/questions/13896/how-to-remove-the-top-horizontal-bar-in-fancyhdr
+\renewcommand{\headrulewidth}{0pt} % no line in the header
+
+% tabs:
+% http://tex.stackexchange.com/questions/73287/adding-tabs-or-creating-my-own-command
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\newcommand{\tab}[1]{\hspace{.2\textwidth}\rlap{#1}}
+
+% http://stackoverflow.com/questions/3275770/modifying-section-to-make-it-colorful-with-latex
+\usepackage[usenames, dvipsnames]{color}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND ADDRESS
+%----------------------------------------------------------------------------------------
+
+% http://en.wikibooks.org/wiki/LaTeX/Colors
+% http://latexcolor.com/
+% https://www.sharelatex.com/learn/Using_colours_in_LaTeX
+% http://ooolatex.sourceforge.net/old_release/colors.html  %% chart
+% blue = darker blue than Blue (etc.) ...
+\moveleft.5\hoffset\centerline{\large\bf {\color{BrickRed}Dr. Victoria A. Stuart, Ph.D.}} % Your name at the top
+ 
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
+ 
+\moveleft.5\hoffset\centerline{\#107 - 1050 10th Ave West} % Your address
+\moveleft.5\hoffset\centerline{Vancouver, British Columbia, Canada V6H 1H8}
+\moveleft.5\hoffset\centerline{(604) 628-9609 $\vert$ Victoria.A.Stuart@gmail.com}
+
+%----------------------------------------------------------------------------------------
+
+\begin{resume}
+
+%% ----------------------------------------
+% http://tex.stackexchange.com/questions/17816/commenting-out-large-sections
+% You can use \iffalse ... \fi to make (La)TeX not compile everything between it:
+\iffalse comment
+out
+this text\fi
+%% ----------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	PERSONAL STATEMENT, VISION
+%----------------------------------------------------------------------------------------
+
+{\color{blue}\section{PERSONAL STATEMENT}}
+
+My \textbf{mission} is to seek collaborative solutions to scientific and societal issues, addressing my \textbf{vision} of applying science and technology to the betterment of human health.
+
+Among my long-term \textbf{goals} is the advancement of knowledge in functional genomics: the phenotypic and functional expression of the information contained within genomes.  In pursuit of this objective -- building on a thorough grounding in biochemistry and molecular genetics -- in recent years my scientific and intellectual interests have actively expanded to include informatics and computational methods.
+
+The intersection of these domains (genomics; programming; relational data; ...) enables a better understanding of functional and conceptual interactions, naturally leading to translational knowledge discovery that transcends dogmatic boundaries.
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+{\color{blue}\section{EDUCATION}}
+
+\textbf{Ph.D., Biology} \hfill June 2000\vspace{0.1 cm}\\
+University of Victoria, Victoria, British Columbia, Canada\\
+Specialization: Molecular Genetics: Mechanisms of Mutagenesis \& Carcinogenesis \\
+Dissertation: ``Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue\textsuperscript{\textregistered} \textit{lacI} Transgenic Rodents``
+
+\textbf{M.Sc., Occupational Hygiene} \hfill May 1995\vspace{0.1 cm}\\
+Occupational Hygiene Programme [\textit{now the School of Environmental Health}]\\
+University of British Columbia, Vancouver, British Columbia, Canada\\
+Specialization: Molecular Epidemiology\\
+Thesis: ``Genotoxicity of Captan Measured in the Comet Assay``
+
+\textbf{B.Sc. with Honours, Biochemistry} \hfill October 1983\vspace{0.1 cm}\\
+Dalhousie University, Halifax, Nova Scotia, Canada\\
+Minor: Chemistry\\
+Honours Thesis: ``Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis Precursor N\textsuperscript{6}-Benzoyl-Deoxyadenosine``
+
+%----------------------------------------------------------------------------------------
+%	CURRENT POSITION
+%----------------------------------------------------------------------------------------
+
+{\color{blue}\section{CURRENT POSITION}}
+
+\textbf{Computational Biologist} \hfill Jan 2014 - present\vspace{0.1 cm}\\
+Canada`s Michael Smith Genome Sciences Centre, British Columbia Cancer Agency, Suite 100, 570 W. 7th Ave., Vancouver, British Columbia.  V5Z 4S6.
+
+%----------------------------------------------------------------------------------------
+%	RECENT AFFILIATIONS
+%----------------------------------------------------------------------------------------
+ 
+{\color{blue}\section{RECENT AFFILIATIONS}}
+
+%Left \hfill Center \hfill Right\\
+
+\textbf{Owner, Persagen Consulting}
+\hfill Jun 2009 - Dec 2013\\
+\hphantom{1} \hfill (ad hoc: Jan 2014 - present)\vspace{0.1 cm}\\
+I`ve been self-employed since June 2009 as a Scientific Consultant, providing scientific expertise in molecular genetics, genomics, molecular biology, other life sciences, bioinformatics and scientific review. From 2009 - 2013 I was subcontracted to Battelle Memorial Institute, Chapel Hill, N.C., providing scientific expertise and review for the U.S. Army Research Office (ARO; Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR; Washington, D.C.).
+
+\textbf{Research Scientist} \hfill May 2001  - Nov 2008\vspace{0.1 cm}\\
+Laboratory of Molecular Genetics\\
+National Institute of Environmental Health Sciences\\
+P.O. Box 12233, MD E3-01, Research Triangle Park, North Carolina 27709.\vspace{0.2 cm}\\
+Throughout this period support was provided by the \textbf{U.S. Army Research Office}\\
+(Research Triangle Park, Durham, North Carolina), through\vspace{0.1 cm}:
+
+\begin{itemize} \itemsep -2pt % Reduce space between items
+
+\iffalse
+\item \textit{National Academy of Sciences} \hfill May 2005 - Nov 2008\\
+Washington, D.C.
+National Research Council Resident\\
+Research Associateship Award 
+% http://tex.stackexchange.com/questions/54521/how-to-indent-second-line-of-an-item-in-list-environment
+% \hspace{\labelwidth}\phantom{\texttt{type}---}this line should start right under ``ablah'' above
+% crude hack, but the # of dashes, below control the indent inset depth:
+\item ablah bblah cblah\\
+\hspace{\labelwidth}\phantom{\texttt{}----}this line should start right under ``ablah'' above
+\fi
+
+\item \textbf{Research Associateship Award} \hfill May 2005 - Nov 2008\vspace{0.05 cm}\\
+National Academy of Sciences, Washington, D.C.\vspace{0.1 cm}
+        
+\item \textbf{Research Assistant} \hfill May 2002 - Apr 2005\vspace{0.05 cm}\\
+Department of Molecular Genetics and Microbiology\\
+Duke University Medical Center, Durham, North Carolina\vspace{0.1 cm}
+
+\item \textbf{International Research Scholar} \hfill May 2001 - Apr 2002\vspace{0.05 cm}\\
+Department of Microbiology\\
+North Carolina State University, Raleigh, North Carolina\vspace{0.1 cm}
+%\end{itemize}\vspace*{-\baselineskip}
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	SCIENTIFIC INTERESTS
+%----------------------------------------------------------------------------------------
+
+{\color{blue}\section{SCIENTIFIC INTERESTS}}
+
+While I focus on genomics and genetics, my scientific interests include artificial intelligence, biology, biochemistry, bioinformatics, cancer, cellular signaling, diet, DNA metabolism, graphical models, health, knowledge stores, mathematics, metabolism, microbiology, molecular genetics, machine learning, natural language processing (NLP), networks (interactions; relational data), neuroscience, `omics (all), physics, programming, statistics/probabilistic models, synthetic biology, ...
+
+My most recent (Jan 2014 - present) work predominantly revolves around:\vspace{0.2 cm}\\
+% MINIPAGE:
+% http://tex.stackexchange.com/questions/99317/two-column-itemization-with-title-in-each-column
+% http://www.sascha-frank.com/latex-minipage.html
+\noindent
+	\begin{minipage}[t]{0.35\linewidth}
+    \textbf{Genetics/Genomics:}
+    \begin{itemize} \itemsep -2pt % Reduce space between items
+    \item{functional genomics}
+    \item{molecular genetics}
+    \item{oncogenomics}
+    \item{pathways/networks}
+    \end{itemize}
+    \end{minipage}%
+    \begin{minipage}[t]{0.3\linewidth}
+    \textbf{Artificial Intelligence:}
+    \begin{itemize} \itemsep -2pt % Reduce space between items
+    \item{clustering}
+    \item{dimensionality} 
+    \item{machine learning}
+    \item{NLP}
+    \end{itemize}
+    \end{minipage}%
+    \begin{minipage}[t]{0.35\linewidth}
+    \textbf{Knowledge-Related:}
+    \begin{itemize} \itemsep -2pt % Reduce space between items
+    \item{graphical models}
+    \item{RDF triples; triplestores}
+    \item{relational data}
+    \item{heterogeneity}
+    \end{itemize}
+\end{minipage}\par %\bigskip
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE & SKILLS
+%----------------------------------------------------------------------------------------
+
+{\color{blue}\section{EXPERIENCE \\ \& SKILLS} }
+
+\textbf{Languages \& Software:} \LaTeX, GNU Octave, Python, R\vspace{0.2 cm}\\
+\textbf{Operating Systems:} Linux\vspace{0.2 cm}\\
+\textbf{Laboratory Skills --} expertise in:\vspace{0.1 cm}
+
+\begin{itemize} \itemsep -2pt % Reduce space between items
+% tilde: http://tex.stackexchange.com/questions/9363/how-does-one-insert-a-backslash-or-a-tilde-into-latex
+\item Biochemistry, Molecular Biology: all aspects ($\sim$28 years at bench)
+\item Chemistry: organic (polynucleotide) chemistry
+\item Microbiology: bacterial \& yeast genetics, genomics (strain constructions ...)
+\item Most major bio/chemical, biology, molecular genetics instrument \& equipment
+\end{itemize}\vspace{-\baselineskip}\vspace{0.2 cm}
+
+\textbf{Scientific Review:} Expertise in peer review, review of scientific research proposals, with hundreds ($\sim$230) of academic [leading-edge] genetics, genomics and life sciences proposals reviewed, ranging from US\$50K - US\$14M.
+
+%----------------------------------------------------------------------------------------
+%	SCIENTIFIC SERVICE
+%---------------------------------------------------------------------------------------- 
+
+{\color{blue}\section{LEADERSHIP \& SCIENTIFIC SERVICE}}
+
+Genetics and Environmental Mutagenesis Society, Durham N.C. \hfill 2002 - 2007
+\vspace{-\baselineskip} \vspace{0.2 cm}\\
+
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item \itab{\textbf{President}} \tab{} \tab{2006 - 2007}
+\item \itab{\textbf{President-Elect}} \tab{} \tab{2005 - 2006}
+\item \itab{\textbf{Councilor}} \tab{} \tab{2002 - 200}
+\end{itemize}
+
+\textbf{Founder}, AI-SIG \hfill 2014\vspace{0.2 cm}\\
+Artificial Intelligence \& Machine Learning Special Interest Group
+
+\textbf{Peer Review, Academic Journals:} Acta Biochimica et Biophysica Sinica; Archives of Biochemistry and Biophysics; Cancer Letters; Environmental and Molecular Mutagenesis; Eukaryotic Cell; Functional and Integrative Genomics; Genetics; Molecular and Cellular Biology; Mutagenesis; Mutation Research; NIEHS internal reviews; Proceedings of the National Academy of Sciences of the United States of America
+
+\textbf{Project Leader} \hfill 2000 – 2001\vspace{0.2 cm}\\
+Supervision of graduate students in: Individual Susceptibility Group, Centre for Environmental Health, Department of Biology, University of Victoria
+
+\textbf{Leadership - Extracurricular:}
+\vspace{-\baselineskip} \vspace{0.2 cm}\\
+
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item
+\textbf{President} \hfill 1985 – 1996 \vspace{0.05 cm}\\
+Phi Kappa Pi Fraternity, Dalhousie University, Halifax, Nova Scotia, Canada \vspace{0.2 cm}
+\item \textbf{Founder} \hfill April 2008 \vspace{0.05 cm}\\
+Durham Gender Alliance.Durham, N.C. USA\vspace{0.05 cm}\\
+http://groups.yahoo.com/group/durhamgenderalliance \vspace{0.2 cm}
+\item \textbf{Chair} \hfill Feb 2009 - Jun 2009\vspace{0.05 cm}\\
+Trans Alliance Society, Vancouver, B.C.
+\end{itemize}
+
+\iffalse
+% http://tex.stackexchange.com/questions/15866/setting-tabs-by-declaration-rather-than-by-example
+\begin{tabbing}
+\hspace*{2cm}\=\hspace*{3cm}\= \kill
+column1a \> column2a \> column3a \\
+column1b \> column2b \> column3b 
+\end{tabbing}
+
+% tabs:
+% http://tex.stackexchange.com/questions/73287/adding-tabs-or-creating-my-own-command
+% http://stackoverflow.com/questions/2558503/how-to-set-tab-stops-after-whitespaces-in-latex
+\begin{tabbing}
+text ~~~~~~~~~~~~~\= more text ~~~~~~~~\= still more text ~~~~~~~~\= last text \\
+2nd row: \> 1   \> 2   \> 3 \\
+3rd row \>  \> 4 \\
+\end{tabbing}
+
+\begin{tabbing}
+A~~~~ \= $\to$ \= B \\
+CD \> $\to$ \> A \\
+BDD \> $\to$ \> F \\
+\end{tabbing}
+\fi
+
+%----------------------------------------------------------------------------------------
+%	MENTORSHIP & TEACHING
+%---------------------------------------------------------------------------------------- 
+
+{\color{blue}\section{MENTORING \& TEACHING}}
+
+\textbf{Co-Op Student Supervisor} \hfill 2014 - present\vspace{0.05 cm}\\
+B.C. Genome Sciences Centre. Various supervisory \& administrative tasks
+
+\textbf{Mentor, ``Women in Science``} \hfill 2014 - present\vspace{0.05 cm}\\
+University of British Columbia: http://ubcwomeninscience.wordpress.com
+
+\textbf{Mentor, ``Women in Science and Engineering:``} \hfill 2012 - 2014\vspace{0.05 cm}\\
+University of British Columbia: Annual WiSE event
+
+\textbf{Teaching:}
+
+\begin{itemize} \itemsep -2pt % Reduce space between items
+\item Co-Lecturer \hfill Spring 2001; Spring 2000\\
+Biology 437/550E, DNA Repair and Mutagenesis, University of Victoria
+
+\item Co-Lecturer \& Course Coordinator /Administrator \hfill Winter 2000\\
+Biology 439/550E, Molecular Epidemiology, University of Victoria
+
+\item Supervisor \hfill 1997 - 2001\\
+Supervision \& training of undergraduate summer students \& technicians\\Department of Biology, University of Victoria
+
+\item Laboratory Instructor \hfill 1983\\
+Biochemistry Laboratory, Dalhousie University
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+%	HONORS AND AWARDS
+%---------------------------------------------------------------------------------------- 
+
+{\color{blue}\section{HONORS \& AWARDS}}
+
+\textbf{National Research Council Research Associateship Award} \hfill 2005 - 2008\\
+National Academies, Washington D.C.
+
+\textbf{National Cancer Institute of Canada (NCIC) Student Travel Award} \hfill 1999
+
+\textbf{Environmental Mutagen Society Student Travel Award} \hfill 1997
+
+\textbf{Foundation for the Promotion of Cancer Research} \hfill 1996\\
+\-\hspace{0.4 cm}\textbf{Fellowship for Research in Japan}\\
+National Cancer Center Research Institute, Tokyo, Japan
+
+\textbf{Graduate Student Stipend} \hfill 1995 - 1999\\
+Cancer Research Society Inc., Montreal, Canada
+
+\textbf{Undergraduate Summer Research Fellowship} \hfill 1981; 1982\\
+Natural Sciences and Engineering Research Council, Ottawa, Canada
+
+%----------------------------------------------------------------------------------------
+%	INVITED TALKS, LECTURES
+%---------------------------------------------------------------------------------------- 
+
+{\color{blue}\section{INVITED TALKS, LECTURES}}
+
+Natural Language Laboratory \hfill Apr 09, 2014\\
+Simon Fraser University, Burnaby, B.C.\\
+``Biomedical Text Mining/Artificial Intelligence Applied to Clinical Reporting``
+
+University of Victoria Sustainability Project \hfill Mar 29, 2000\\
+University of Victoria, Victoria, B.C.\\
+``Genetic Studies of Dietary and Environmental Mutagens and Carcinogens \\
+\-\hspace{0.4 cm}Using \textit{lacI} Transgenic Rodents``
+
+Occupational Hygiene Programme \hfill Feb 05, 1999\\
+University of British Columbia, Vancouver, B.C.\\
+``Genetic Studies of Dietary and Environmental Mutagens and Carcinogens \\
+\-\hspace{0.4 cm}Using \textit{lacI} Transgenic Rodents``
+
+Carcinogenesis Division, NCCRI \hfill Jan 18, 1996\\
+National Cancer Center Research Institute, Tokyo, Japan\\
+``A study of \textbf{Tris}(2,3-dibromopropyl)-phosphate in Big Blue\textsuperscript{\textregistered} transgenic\\
+\-\hspace{0.4 cm}mice, and aflatoxin B1 in Big  Blue\textsuperscript{\textregistered} mice and rats``
+
+%----------------------------------------------------------------------------------------
+%	PEER-REVIEWED PUBLICATIONS
+%---------------------------------------------------------------------------------------- 
+
+{\color{blue}\section{PEER-REVIEWED PUBLICATIONS}}
+
+\textbf{Citations (Google Scholar):} http://scholar.google.com/citations?user=VictoriaStuart
+
+\textbf{In Preparation or Submission}
+
+Basher, A.R.M.A., Purdy, A., \textbf{Stuart, V.A.} and Birol, I. (2014) Event Extraction from Biomedical Literature: Challenges and Future Directions. In preparation for: (Oxford) Bioinformatics.
+
+\textbf{Published Papers}
+
+\textbf{Stuart, G.R.}, Copeland, W.C. and Strand, M.K. (2009) ``Construction and Application of a Protein and Genetic Interaction Network (Yeast Interactome)`` Nucleic Acids Research 37, e54.
+
+\textbf{Stuart, G.R.}, Humble, M.M., Strand, M.K. and Copeland, W.C. (2009) ``Transcriptional Response to Mitochondrial NADH Kinase Deficiency in \textit{Saccharomyces cerevisiae}.``  Mitochondrion 9, 211-221.
+
+% Greek, special characters:
+% https://molspect.chemistry.ohio-state.edu/symposium/latexinstruct.html
+
+\textbf{Stuart, G.R.}, Santos, J.H., Strand, M.K., Van Houten, B. and Copeland, W.C. (2006) ``Mitochondrial and nuclear DNA defects in \textit{Saccharomyces cerevisiae} with mutations in DNA polymerase $\gamma$ associated with progressive external ophthalmoplegia.`` Human Molecular Genetics 15, 363-374.
+
+Thornton, A.S., Oda, Y., \textbf{Stuart, G.R.}, Holcroft, J. and de Boer, J.G. (2004) ``The dioxin TCDD protects against aflatoxin-induced mutation in female rats, but not in male rats.`` Mutation Research 561, 147-152.
+
+Strand, M.K., \textbf{Stuart, G.R.}, Longley, M.J., Graziewicz, M.A., Dominick, O.C. and Copeland, W.C. (2003) ``\textit{POS5} Gene of \textit{Saccharomyces cerevisiae} encodes a mitochondrial NADH kinase required for stability of mitochondrial DNA.`` Eukaryotic Cell 2, 809-820.
+
+Yang, H., \textbf{Stuart, G.R.}, Glickman, B.W. and de Boer, J.G. (2001) Modulation of 2-amino-1-methyl-6-phenylimidazo[4,5-\textit{b}]pyridine-induced mutation in the cecum and colon of Big  Blue\textsuperscript{\textregistered} rats by conjugated linoleic acid and 1,2-dithiole-3-thione. Nutrition and Cancer 39, 259-266.
+
+\textbf{Stuart, G.R.}, de Boer, J.G., Haesevoets, R., Holcroft, J., Kangas, J., Sojonky, K., Thorleifson, E., Thornton, A., Walsh, D.F., Yang, H. and Glickman, B.W. (2001) Mutations induced by 2-amino-1-methyl-6-phenylimidazo [4,5-\textit{b}]pyridine (PhIP) in cecum and proximal and distal colon of \textit{lacI} transgenic rats. Mutagenesis 16, 431-437.
+
+Thornton, A.S., Oda, Y., \textbf{Stuart, G.R.}, Glickman, B.W. and de Boer, J.G. (2001) Mutagenicity of TCDD in Big  Blue\textsuperscript{\textregistered} transgenic rats. Mutation Research 478, 45-50.
+
+\textbf{Stuart, G.R.}, Holcroft, J., de Boer, J.G. and Glickman, B.W. (2000) Prostate mutations in rats induced by the suspected human carcinogen 2-amino-1-methyl-6-phenyl-\\imidazo[4,5-\textit{b}]pyridine. Cancer Research 60, 266-268.
+
+\textbf{Stuart, G.R.}, Oda, Y., de Boer, J.G. and Glickman, B.W. (2000) Mutation frequency and specificity with age in liver, bladder and brain of \textit{lacI} transgenic mice. Genetics 154, 1291-1300.
+
+\textbf{Stuart, G.R.}, Oda, Y., de Boer, J.G. and Glickman, B.W. (2000) No change in spontaneous mutation frequency or specificity in dietary restricted mice. Carcinogenesis 21, 317-319.
+
+\textbf{Stuart, G.R.} and Glickman, B.W. (2000) Through a glass, darkly: Reflections of mutation from \textit{lacI} transgenic mice. Genetics 155, 1359-1367.
+
+\textbf{Stuart, G.R}., Thorleifson, E., Okochi, E., de Boer, J.G., Ushijima, T., Nagao, M. and Glickman, B.W. (2000) Interpretation of mutational spectra from different genes: Analyses of PhIP-induced mutational specificity in the \textit{lacI} and \textit{cII} transgenes from colon of Big  Blue\textsuperscript{\textregistered} rats. Mutation Research  452, 101-121.
+
+\textbf{Stuart, G.R.}, Influences of Ageing and Diet on Mutational Frequency and Specificity in Big  Blue\textsuperscript{\textregistered} \textit{lacI} Transgenic Rodents. Ph.D. Dissertation, University of Victoria, 1999.
+
+Okonogi, H., \textbf{Stuart, G.R.}, Okochi, E., Ushijima, T., Sugimura, T., Glickman, B.W. and Nagao, M. (1997) Effects of gender and species on spectra of mutation induced by 2-amino-1-methyl-6-phenylimidazo[4,5-\textit{b}]pyridine in the \textit{lacI} transgene. Mutation Research 395, 93-99.
+
+Dycaico, M.J., \textbf{Stuart, G.R.}, Tobal, G.M., de Boer, J.G., Glickman, B.W. and Provost, G.S. (1996) Species-specific differences in hepatic mutant frequency and mutational spectrum among lambda/\textit{lacI} transgenic rats and mice following exposure to aflatoxin B$_{1}$. Carcinogenesis 17, 2347-2356.
+
+\textbf{Stuart, G.R.}, Gorelick, N.J., Andrews, J.L., de Boer, J.G. and Glickman, B.W. (1996) The genetic analysis of \textit{lacI} mutations in sectored plaques from Big  Blue\textsuperscript{\textregistered} transgenic mice. Environmental and Molecular Mutagenesis 28, 385-392.
+
+Mazur-Melnyk, M., \textbf{Stuart, G.R.} and Glickman, B.W. (1996) Benzo[\textit{a}]pyrene diol-epoxide induces loss of heterozygosity in a Chinese hamster ovary \textit{aprt} heterozygote. Mutation Research 358, 89-96.
+
+\textbf{Stuart, G.R}., Application of the single-cell gel electrophoresis (`Comet`) assay to lymphocytes exposed in vitro to captan, a fungicide. M.Sc. Thesis, University of British Columbia, 1995.
+
+Pohajdak, B., Dixon, B. and \textbf{Stuart, G.R.}, Immune System, In: Biochemistry and Molecular Biology of Fishes, Volume 2, Chapter 8. Hochachka, P.W., and Mommsen, T.P. (Eds), Elsevier Science Publishers B.V., Amsterdam, 1993. pp. 191-205.
+
+\textbf{Stuart, G.R.}, Dixon, B. and Pohajdak, B. (1992) Isolation of a putative retrovirus pol gene fragment from trout. Comparative Biochemistry and Physiology. B Comparative Biochemistry 102, 137-142.
+
+\textbf{Stuart, G.R.} and Chambers, R.W. (1987) Synthesis and properties of oligodeoxynucleotides with an AP site at a preselected position. Nucleic Acids Research 15, 7451-7462.
+
+%----------------------------------------------------------------------------------------
+%	REFERENCES
+%---------------------------------------------------------------------------------------- 
+
+%\pagebreak
+
+%{\color{blue}\section{REFERENCES}}
+
+%\bigskip
+\vspace{1.5cm} % vertical space (mm, cm, pt)
+
+\moveleft.5\hoffset\centerline{\large\bf \color{blue}{References}} % Your name at the top
+ 
+%\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip % Horizontal line after name; adjust line thickness by changing the '1pt'
+
+References are available upon request: Victoria.A.Stuart@gmail.com
+
+%----------------------------------------------------------------------------------------
+
+\end{resume}
+\end{document}
