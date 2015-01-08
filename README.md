@@ -34,7 +34,7 @@ Thesis: “Genotoxicity of Captan Measured in the Comet Assay“
 * B.Sc. with Honours, Biochemistry October 1983<vr>
 Dalhousie University, Halifax, Nova Scotia, Canada<br>
 Minor: Chemistry<br>
-Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis Precursor N^6-Benzoyl-Deoxyadenosine“
+Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis Precursor N<sup>6</sup>-Benzoyl-Deoxyadenosine“
 
 ##CURRENT POSITION
 
