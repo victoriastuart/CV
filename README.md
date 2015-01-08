@@ -21,53 +21,54 @@ In pursuit of this objective – building on a thorough grounding in biochemistr
 
 ##EDUCATION
 
-Ph.D., Biology June 2000
+* Ph.D., Biology June 2000
 University of Victoria, Victoria, British Columbia, Canada
 Specialization: Molecular Genetics: Mechanisms of Mutagenesis & Carcinogenesis
 Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity
 in Big Blue
 R lacI Transgenic Rodents“
 
-M.Sc., Occupational Hygiene May 1995
+* M.Sc., Occupational Hygiene May 1995
 Occupational Hygiene Programme [now the School of Environmental Health]
 University of British Columbia, Vancouver, British Columbia, Canada
 Specialization: Molecular Epidemiology
 Thesis: “Genotoxicity of Captan Measured in the Comet Assay“
 
-B.Sc. with Honours, Biochemistry October 1983
+* B.Sc. with Honours, Biochemistry October 1983
 Dalhousie University, Halifax, Nova Scotia, Canada
 Minor: Chemistry
 Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis
 Precursor N6-Benzoyl-Deoxyadenosine“
 
 ##CURRENT POSITION
-Computational Biologist Jan 2014 - present
-Canada‘s Michael Smith Genome Sciences Centre, British Columbia Cancer Agency,
+
+Computational Biologist Jan 2014 - present<br>
+Canada‘s Michael Smith Genome Sciences Centre, British Columbia Cancer Agency,<br>
 Suite 100, 570 W. 7th Ave., Vancouver, British Columbia. V5Z 4S6.
 
 ##RECENT AFFILIATIONS
 
-Owner, Persagen Consulting Jun 2009 - Dec 2013
+Owner, Persagen Consulting Jun 2009 - Dec 2013<br>
 (ad hoc: Jan 2014 - present)
 
 I‘ve been self-employed since June 2009 as a Scientific Consultant, providing scientific expertise in molecular genetics, genomics, molecular biology, other life sciences, bioinformatics and scientific review. From 2009 - 2013 I was subcontracted to Battelle Memorial Institute, Chapel Hill, N.C., providing scientific expertise and review for the U.S. Army Research Office (ARO; Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR; Washington, D.C.).
 
-Research Scientist May 2001 - Nov 2008
-Laboratory of Molecular Genetics
-National Institute of Environmental Health Sciences
+Research Scientist May 2001 - Nov 2008<br>
+Laboratory of Molecular Genetics<br>
+National Institute of Environmental Health Sciences<br>
 P.O. Box 12233, MD E3-01, Research Triangle Park, North Carolina 27709.
 
 Throughout this period support was provided by the U.S. Army Research Office (Research Triangle Park, Durham, North Carolina), through:
 
-Research Associateship Award May 2005 - Nov 2008
+* Research Associateship Award May 2005 - Nov 2008<br>
 National Academy of Sciences, Washington, D.C.
 
-Research Assistant May 2002 - Apr 2005
-Department of Molecular Genetics and Microbiology
+* Research Assistant May 2002 - Apr 2005<br>
+Department of Molecular Genetics and Microbiology<br>
 Duke University Medical Center, Durham, North Carolina
 
-International Research Scholar May 2001 - Apr 2002
-Department of Microbiology
+* International Research Scholar May 2001 - Apr 2002<br>
+Department of Microbiology<br>
 North Carolina State University, Raleigh, North Carolina
 
 ##SCIENTIFIC INTERESTS
@@ -78,10 +79,10 @@ My most recent (Jan 2014 - present) work predominantly revolves around:
 
 Genetics/Genomics:
 
-functional genomics
-molecular genetics
-oncogenomics
-pathways/networks
+* functional genomics
+* molecular genetics
+* oncogenomics
+* pathways/networks
 
 Artificial Intelligence:
 
