@@ -9,9 +9,9 @@ https://github.com/victoriastuart/cv/blob/master/cv_web.pdf?raw=true
 
 #Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
-107 - 1050 10th Ave West
-Vancouver, British Columbia, Canada V6H 1H8
-(604) 628-9609 j Victoria.A.Stuart@gmail.com
+107 - 1050 10th Ave West<br>
+Vancouver, British Columbia, Canada V6H 1H8<br>
+Victoria.A.Stuart@gmail.com
 
 ##PERSONAL STATEMENT
 
