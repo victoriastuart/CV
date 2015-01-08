@@ -9,9 +9,8 @@ https://github.com/victoriastuart/cv/blob/master/cv_web.pdf?raw=true
 
 #Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
-107 - 1050 10th Ave West<br>
-Vancouver, British Columbia, Canada V6H 1H8<br>
-Victoria.A.Stuart@gmail.com
+Vancouver, British Columbia, Canada<br>
+Victoria.A.Stuart <at) gmail (etc.)
 
 ##PERSONAL STATEMENT
 
@@ -86,126 +85,126 @@ Genetics/Genomics:
 
 Artificial Intelligence:
 
-clustering
-dimensionality
-machine learning
-NLP
+* clustering
+* dimensionality
+* machine learning
+* NLP
 
 Knowledge-Related:
 
-graphical models
-RDF triples; triplestores
-relational data
-heterogeneity
+* graphical models
+* RDF triples; triplestores
+* relational data
+* heterogeneity
 
 ##EXPERIENCE & SKILLS
 
-Languages & Software: LATEX, GNU Octave, Python, R
+* Languages & Software: LATEX, GNU Octave, Python, R
 
-Operating Systems: Linux
+* Operating Systems: Linux
 
-Laboratory Skills – expertise in:
+* Laboratory Skills – expertise in:
 
-Biochemistry, Molecular Biology: all aspects (28 years at bench)
+* Biochemistry, Molecular Biology: all aspects (28 years at bench)
 
-Chemistry: organic (polynucleotide) chemistry
+* Chemistry: organic (polynucleotide) chemistry
 
-Microbiology: bacterial & yeast genetics, genomics (strain constructions ...)
+* Microbiology: bacterial & yeast genetics, genomics (strain constructions ...)
 
-Most major bio/chemical, biology, molecular genetics instrument & equipment Scientific Review: Expertise in peer review, review of scientific research proposals, with hundreds (>230) of academic genetics, genomics and life sciences proposals reviewed, ranging from US$50K - US$14M.
+* Most major bio/chemical, biology, molecular genetics instrument & equipment Scientific Review: Expertise in peer review, review of scientific research proposals, with hundreds (>230) of academic genetics, genomics and life sciences proposals reviewed, ranging from US$50K - US$14M.
 
 ##LEADERSHIP & SCIENTIFIC SERVICE
 
-Genetics and Environmental Mutagenesis Society, Durham N.C. 2002 - 2007
+* Genetics and Environmental Mutagenesis Society, Durham N.C. 2002 - 2007
 
-President 2006 - 2007
+* President 2006 - 2007
 
-President-Elect 2005 - 2006
+* President-Elect 2005 - 2006
 
-Councilor 2002 - 200
+* Councilor 2002 - 200
 
-Founder, AI-SIG 2014
+* Founder, AI-SIG 2014<br>
 Artificial Intelligence & Machine Learning Special Interest Group
 
-###Peer Review, Academic Journals: Acta Biochimica et Biophysica Sinica; Archives of Biochemistry and Biophysics; Cancer Letters; Environmental and Molecular Mutagenesis;
-Eukaryotic Cell; Functional and Integrative Genomics; Genetics; Molecular and Cellular Biology; Mutagenesis; Mutation Research; NIEHS internal reviews; Proceedings of the National Academy of Sciences of the United States of America
+* Peer Review, Academic Journals: Acta Biochimica et Biophysica Sinica; Archives of Biochemistry and Biophysics; Cancer Letters; Environmental and Molecular Mutagenesis; Eukaryotic Cell; Functional and Integrative Genomics; Genetics; Molecular and Cellular Biology; Mutagenesis; Mutation Research; NIEHS internal reviews; Proceedings of the National Academy of Sciences of the United States of America
 
-Project Leader 2000 – 2001
+* Project Leader 2000 – 2001<br>
 Supervision of graduate students in: Individual Susceptibility Group, Centre for Environmental Health, Department of Biology, University of Victoria
 
 ###Leadership - Extracurricular:
 
-President 1985 - 1996
+* President 1985 - 1996<br>
 Phi Kappa Pi Fraternity, Dalhousie University, Halifax, Nova Scotia, Canada
 
-Founder April 2008
-Durham Gender Alliance.Durham, N.C. USA
+* Founder April 2008<br>
+Durham Gender Alliance.Durham, N.C. USA<br>
 http://groups.yahoo.com/group/durhamgenderalliance
 
-Chair Feb 2009 - Jun 2009
+* Chair Feb 2009 - Jun 2009<br>
 Trans Alliance Society, Vancouver, B.C.
 
 ##MENTORING & TEACHING
 
-Co-Op Student Supervisor 2014 - present
+* Co-Op Student Supervisor 2014 - present<br>
 B.C. Genome Sciences Centre. Various supervisory & administrative tasks
 
-Mentor, “Women in Science“ 2014 - present
+* Mentor, “Women in Science“ 2014 - present<br>
 University of British Columbia: http://ubcwomeninscience.wordpress.com
 
-Mentor, “Women in Science and Engineering:“ 2012 - 2014
+* Mentor, “Women in Science and Engineering:“ 2012 - 2014<br>
 University of British Columbia: Annual WiSE event
 
 ###Teaching:
 
-Co-Lecturer Spring 2001; Spring 2000
+* Co-Lecturer Spring 2001; Spring 2000<br>
 Biology 437/550E, DNA Repair and Mutagenesis, University of Victoria
 
-Co-Lecturer & Course Coordinator /Administrator Winter 2000
+* Co-Lecturer & Course Coordinator /Administrator Winter 2000<br>
 Biology 439/550E, Molecular Epidemiology, University of Victoria
 
-Supervisor 1997 - 2001
-Supervision & training of undergraduate summer students & technicians
+* Supervisor 1997 - 2001<br>
+Supervision & training of undergraduate summer students & technicians<br>
 Department of Biology, University of Victoria
 
-Laboratory Instructor 1983
+* Laboratory Instructor 1983<br>
 Biochemistry Laboratory, Dalhousie University
 
 ## HONORS & AWARDS
 
-National Research Council Research Associateship Award 2005 - 2008
+* National Research Council Research Associateship Award 2005 - 2008<br>
 National Academies, Washington D.C.
 
-National Cancer Institute of Canada (NCIC) Student Travel Award 1999
+* National Cancer Institute of Canada (NCIC) Student Travel Award 1999
 
-Environmental Mutagen Society Student Travel Award 1997
+* Environmental Mutagen Society Student Travel Award 1997
 
-Foundation for the Promotion of Cancer Research 1996
+* Foundation for the Promotion of Cancer Research 1996
 
-Fellowship for Research in Japan
+* Fellowship for Research in Japan<br>
 National Cancer Center Research Institute, Tokyo, Japan
 
-Graduate Student Stipend 1995 - 1999
+* Graduate Student Stipend 1995 - 1999<br>
 Cancer Research Society Inc., Montreal, Canada
-Undergraduate Summer Research Fellowship 1981; 1982
+
+* Undergraduate Summer Research Fellowship 1981; 1982<br>
 Natural Sciences and Engineering Research Council, Ottawa, Canada
 
 ##INVITED TALKS, LECTURES
 
-Natural Language Laboratory Apr 09, 2014
-Simon Fraser University, Burnaby, B.C.
+* Natural Language Laboratory Apr 09, 2014<br>
+Simon Fraser University, Burnaby, B.C.<br>
 “Biomedical Text Mining/Artificial Intelligence Applied to Clinical Reporting“
 
-University of Victoria Sustainability Project Mar 29, 2000
-University of Victoria, Victoria, B.C.
-“Genetic Studies of Dietary and Environmental Mutagens and Carcinogens Using lacI Transgenic Rodents“
-Occupational Hygiene Programme Feb 05, 1999
+* University of Victoria Sustainability Project Mar 29, 2000<br>
+University of Victoria, Victoria, B.C.<br>
+“Genetic Studies of Dietary and Environmental Mutagens and Carcinogens Using lacI Transgenic Rodents“<br>
 
-University of British Columbia, Vancouver, B.C.
+* Occupational Hygiene Programme Feb 05, 1999<br>
+University of British Columbia, Vancouver, B.C.<br>
 “Genetic Studies of Dietary and Environmental Mutagens and Carcinogens Using lacI Transgenic Rodents“
-Carcinogenesis Division, NCCRI Jan 18, 1996
 
-National Cancer Center Research Institute, Tokyo, Japan
+* Carcinogenesis Division, NCCRI Jan 18, 1996<br>
+National Cancer Center Research Institute, Tokyo, Japan<br>
 “A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue transgenic mice, and aflatoxin B1 in Big Blue mice and rats“
 
 ## PEER-REVIEWED PUBLICATIONS
