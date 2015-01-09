@@ -253,7 +253,4 @@ Pohajdak, B., Dixon, B. and **Stuart, G.R.**, Immune System, In: Biochemistry an
 
 ## References
 
-References are available upon request;<br>
-  (append *gmail.com* to): Victoria.A.Stuart
-
-
+References are available upon request (append *gmail.com* to): Victoria.A.Stuart
