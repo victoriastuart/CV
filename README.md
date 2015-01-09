@@ -203,7 +203,7 @@ Citations (Google Scholar): http://scholar.google.com/citations?user=VictoriaStu
 
 ###In Preparation or Submission
 
-Basher, A.R.M.A., Purdy, A., Stuart, V.A. and Birol, I. (2014) Event Extraction from Biomedical Literature: Challenges and Future Directions. In preparation for: (Oxford) Bioinformatics.
+Basher, A.R.M.A., Purdy, A., **Stuart, V.A.** and Birol, I. (2014) Event Extraction from Biomedical Literature: Challenges and Future Directions. In preparation for: (Oxford) Bioinformatics.
 
 ###Published Papers
 
