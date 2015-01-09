@@ -3,7 +3,7 @@ https://github.com/victoriastuart/cv/blob/master/cv_web.pdf?raw=true
 #Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
 Vancouver, British Columbia, Canada<br>
-Email (via gmail, to): Victoria.A.Stuart
+Email (append *gmail.com* to): Victoria.A.Stuart
 
 ##PERSONAL STATEMENT
 
@@ -253,6 +253,7 @@ Pohajdak, B., Dixon, B. and **Stuart, G.R.**, Immune System, In: Biochemistry an
 
 ## References
 
-References are available upon request (via gmail, to): Victoria.A.Stuart
+References are available upon request;
+(append *gmail.com* to): Victoria.A.Stuart
 
 
