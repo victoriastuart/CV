@@ -3,7 +3,7 @@ https://github.com/victoriastuart/cv/blob/master/cv_web.pdf?raw=true
 #Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
 Vancouver, British Columbia, Canada<br>
-Email (gmail to): Victoria.A.Stuart
+Email (via gmail, to): Victoria.A.Stuart
 
 ##PERSONAL STATEMENT
 
@@ -207,52 +207,52 @@ Basher, A.R.M.A., Purdy, A., **Stuart, V.A.** and Birol, I. (2014) Event Extract
 
 ###Published Papers
 
-Stuart, G.R., Copeland, W.C. and Strand, M.K. (2009) “Construction and Application of a Protein and Genetic Interaction Network (Yeast Interactome)“ Nucleic Acids Research 37, e54.
+**Stuart, G.R.**, Copeland, W.C. and Strand, M.K. (2009) “Construction and Application of a Protein and Genetic Interaction Network (Yeast Interactome)“ Nucleic Acids Research 37, e54.
 
-Stuart, G.R., Humble, M.M., Strand, M.K. and Copeland, W.C. (2009) “Transcriptional Response to Mitochondrial NADH Kinase Deficiency in Saccharomyces cerevisiae.“ Mitochondrion 9, 211-221.
+**Stuart, G.R.**, Humble, M.M., Strand, M.K. and Copeland, W.C. (2009) “Transcriptional Response to Mitochondrial NADH Kinase Deficiency in Saccharomyces cerevisiae.“ Mitochondrion 9, 211-221.
 
-Stuart, G.R., Santos, J.H., Strand, M.K., Van Houten, B. and Copeland, W.C. (2006) “Mitochondrial and nuclear DNA defects in Saccharomyces cerevisiae with mutations in DNA polymerase γ associated with progressive external ophthalmoplegia.“ Human Molecular Genetics 15, 363-374.
+**Stuart, G.R.**, Santos, J.H., Strand, M.K., Van Houten, B. and Copeland, W.C. (2006) “Mitochondrial and nuclear DNA defects in Saccharomyces cerevisiae with mutations in DNA polymerase γ associated with progressive external ophthalmoplegia.“ Human Molecular Genetics 15, 363-374.
 
-Thornton, A.S., Oda, Y., Stuart, G.R., Holcroft, J. and de Boer, J.G. (2004) “The dioxin TCDD protects against aflatoxin-induced mutation in female rats, but not in male rats.“ Mutation Research 561, 147-152.
+Thornton, A.S., Oda, Y., **Stuart, G.R.**, Holcroft, J. and de Boer, J.G. (2004) “The dioxin TCDD protects against aflatoxin-induced mutation in female rats, but not in male rats.“ Mutation Research 561, 147-152.
 
-Strand, M.K., Stuart, G.R., Longley, M.J., Graziewicz, M.A., Dominick, O.C. and Copeland, W.C. (2003) “POS5 Gene of Saccharomyces cerevisiae encodes a mitochondrial NADH kinase required for stability of mitochondrial DNA.“ Eukaryotic Cell 2, 809-820.
+Strand, M.K., **Stuart, G.R.**, Longley, M.J., Graziewicz, M.A., Dominick, O.C. and Copeland, W.C. (2003) “POS5 Gene of Saccharomyces cerevisiae encodes a mitochondrial NADH kinase required for stability of mitochondrial DNA.“ Eukaryotic Cell 2, 809-820.
 
-Yang, H., Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Modulation of 2-amino-1-methyl-6-phenylimidazo[4,5-*b*]pyridine-induced mutation in the cecum and colon of Big Blue<sup>®</sup> rats by conjugated linoleic acid and 1,2-dithiole-3-thione. Nutrition and Cancer 39, 259-266.
+Yang, H., **Stuart, G.R.**, Glickman, B.W. and de Boer, J.G. (2001) Modulation of 2-amino-1-methyl-6-phenylimidazo[4,5-*b*]pyridine-induced mutation in the cecum and colon of Big Blue<sup>®</sup> rats by conjugated linoleic acid and 1,2-dithiole-3-thione. Nutrition and Cancer 39, 259-266.
 
-Stuart, G.R., de Boer, J.G., Haesevoets, R., Holcroft, J., Kangas, J., Sojonky, K., Thorleifson, E., Thornton, A., Walsh, D.F., Yang, H. and Glickman, B.W. (2001) Mutations induced by 2-amino-1-methyl-6-phenylimidazo [4,5-*b*]pyridine (PhIP) in cecum and proximal and distal colon of *lacI* transgenic rats. Mutagenesis 16, 431-437.
+**Stuart, G.R.**, de Boer, J.G., Haesevoets, R., Holcroft, J., Kangas, J., Sojonky, K., Thorleifson, E., Thornton, A., Walsh, D.F., Yang, H. and Glickman, B.W. (2001) Mutations induced by 2-amino-1-methyl-6-phenylimidazo [4,5-*b*]pyridine (PhIP) in cecum and proximal and distal colon of *lacI* transgenic rats. Mutagenesis 16, 431-437.
 
-Thornton, A.S., Oda, Y., Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Mutagenicity of TCDD in Big Blue<sup>®</sup> transgenic rats. Mutation Research 478, 45-50.
+Thornton, A.S., Oda, Y., **Stuart, G.R.**, Glickman, B.W. and de Boer, J.G. (2001) Mutagenicity of TCDD in Big Blue<sup>®</sup> transgenic rats. Mutation Research 478, 45-50.
 
-Stuart, G.R., Holcroft, J., de Boer, J.G. and Glickman, B.W. (2000) Prostate mutations in rats induced by the suspected human carcinogen 2-amino-1-methyl-6-phenylimidazo[ 4,5-*b*]pyridine. Cancer Research 60, 266-268.
+**Stuart, G.R.**, Holcroft, J., de Boer, J.G. and Glickman, B.W. (2000) Prostate mutations in rats induced by the suspected human carcinogen 2-amino-1-methyl-6-phenylimidazo[ 4,5-*b*]pyridine. Cancer Research 60, 266-268.
 
-Stuart, G.R., Oda, Y., de Boer, J.G. and Glickman, B.W. (2000) Mutation frequency and specificity with age in liver, bladder and brain of *lacI* transgenic mice. Genetics 154, 1291-1300.
+**Stuart, G.R.**, Oda, Y., de Boer, J.G. and Glickman, B.W. (2000) Mutation frequency and specificity with age in liver, bladder and brain of *lacI* transgenic mice. Genetics 154, 1291-1300.
 
-Stuart, G.R., Oda, Y., de Boer, J.G. and Glickman, B.W. (2000) No change in spontaneous mutation frequency or specificity in dietary restricted mice. Carcinogenesis 21, 317-319.
+**Stuart, G.R.**, Oda, Y., de Boer, J.G. and Glickman, B.W. (2000) No change in spontaneous mutation frequency or specificity in dietary restricted mice. Carcinogenesis 21, 317-319.
 
-Stuart, G.R. and Glickman, B.W. (2000) Through a glass, darkly: Reflections of mutation from *lacI* transgenic mice. Genetics 155, 1359-1367.
+**Stuart, G.R.** and Glickman, B.W. (2000) Through a glass, darkly: Reflections of mutation from *lacI* transgenic mice. Genetics 155, 1359-1367.
 
-Stuart, G.R., Thorleifson, E., Okochi, E., de Boer, J.G., Ushijima, T., Nagao, M. and Glickman, B.W. (2000) Interpretation of mutational spectra from different genes: Analyses of PhIP-induced mutational specificity in the *lacI* and *cII* transgenes from colon of Big Blue<sup>®</sup> rats. Mutation Research 452, 101-121.
+**Stuart, G.R.**, Thorleifson, E., Okochi, E., de Boer, J.G., Ushijima, T., Nagao, M. and Glickman, B.W. (2000) Interpretation of mutational spectra from different genes: Analyses of PhIP-induced mutational specificity in the *lacI* and *cII* transgenes from colon of Big Blue<sup>®</sup> rats. Mutation Research 452, 101-121.
 
-Stuart, G.R., Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue<sup>®</sup> *lacI* Transgenic Rodents. Ph.D. Dissertation, University of Victoria, 1999.
+**Stuart, G.R.**, Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue<sup>®</sup> *lacI* Transgenic Rodents. Ph.D. Dissertation, University of Victoria, 1999.
 
-Okonogi, H., Stuart, G.R., Okochi, E., Ushijima, T., Sugimura, T., Glickman, B.W. and Nagao, M. (1997) Effects of gender and species on spectra of mutation induced by 2-amino-1-methyl-6-phenylimidazo[4,5-*b*]pyridine in the *lacI* transgene. Mutation Research 395, 93-99.
+Okonogi, H., **Stuart, G.R.**, Okochi, E., Ushijima, T., Sugimura, T., Glickman, B.W. and Nagao, M. (1997) Effects of gender and species on spectra of mutation induced by 2-amino-1-methyl-6-phenylimidazo[4,5-*b*]pyridine in the *lacI* transgene. Mutation Research 395, 93-99.
 
-Dycaico, M.J., Stuart, G.R., Tobal, G.M., de Boer, J.G., Glickman, B.W. and Provost, G.S. (1996) Species-specific differences in hepatic mutant frequency and mutational spectrum among lambda/*lacI* transgenic rats and mice following exposure to aflatoxin B<sub>1</sub>. Carcinogenesis 17, 2347-2356.
+Dycaico, M.J., **Stuart, G.R.**, Tobal, G.M., de Boer, J.G., Glickman, B.W. and Provost, G.S. (1996) Species-specific differences in hepatic mutant frequency and mutational spectrum among lambda/*lacI* transgenic rats and mice following exposure to aflatoxin B<sub>1</sub>. Carcinogenesis 17, 2347-2356.
 
-Stuart, G.R., Gorelick, N.J., Andrews, J.L., de Boer, J.G. and Glickman, B.W. (1996) The genetic analysis of *lacI* mutations in sectored plaques from Big Blue&reg transgenic mice. Environmental and Molecular Mutagenesis 28, 385-392.
+**Stuart, G.R.**, Gorelick, N.J., Andrews, J.L., de Boer, J.G. and Glickman, B.W. (1996) The genetic analysis of *lacI* mutations in sectored plaques from Big Blue&reg transgenic mice. Environmental and Molecular Mutagenesis 28, 385-392.
 
-Mazur-Melnyk, M., Stuart, G.R. and Glickman, B.W. (1996) Benzo[a]pyrene diolepoxide induces loss of heterozygosity in a Chinese hamster ovary *aprt* heterozygote. Mutation Research 358, 89-96.
+Mazur-Melnyk, M., **Stuart, G.R.** and Glickman, B.W. (1996) Benzo[a]pyrene diolepoxide induces loss of heterozygosity in a Chinese hamster ovary *aprt* heterozygote. Mutation Research 358, 89-96.
 
-Stuart, G.R., Application of the single-cell gel electrophoresis ('Comet') assay to lymphocytes exposed in vitro to captan, a fungicide. M.Sc. Thesis, University of British Columbia, 1995.
+**Stuart, G.R.**, Application of the single-cell gel electrophoresis ('Comet') assay to lymphocytes exposed in vitro to captan, a fungicide. M.Sc. Thesis, University of British Columbia, 1995.
 
-Pohajdak, B., Dixon, B. and Stuart, G.R., Immune System, In: Biochemistry and Molecular Biology of Fishes, Volume 2, Chapter 8. Hochachka, P.W., and Mommsen, T.P. (Eds), Elsevier Science Publishers B.V., Amsterdam, 1993. pp. 191-205.
+Pohajdak, B., Dixon, B. and **Stuart, G.R.**, Immune System, In: Biochemistry and Molecular Biology of Fishes, Volume 2, Chapter 8. Hochachka, P.W., and Mommsen, T.P. (Eds), Elsevier Science Publishers B.V., Amsterdam, 1993. pp. 191-205.
 
-Stuart, G.R., Dixon, B. and Pohajdak, B. (1992) Isolation of a putative retrovirus pol gene fragment from trout. Comparative Biochemistry and Physiology. B Comparative Biochemistry 102, 137-142.
+**Stuart, G.R.**, Dixon, B. and Pohajdak, B. (1992) Isolation of a putative retrovirus pol gene fragment from trout. Comparative Biochemistry and Physiology. B Comparative Biochemistry 102, 137-142.
 
-Stuart, G.R. and Chambers, R.W. (1987) Synthesis and properties of oligodeoxynucleotides with an AP site at a preselected position. Nucleic Acids Research 15, 7451-7462.
+**Stuart, G.R.** and Chambers, R.W. (1987) Synthesis and properties of oligodeoxynucleotides with an AP site at a preselected position. Nucleic Acids Research 15, 7451-7462.
 
 ## References
 
-References are available upon request (gmail to): Victoria.A.Stuart
+References are available upon request (via gmail, to): Victoria.A.Stuart
 
 
