@@ -62,7 +62,7 @@ North Carolina State University, Raleigh, North Carolina
 
 ##SCIENTIFIC INTERESTS
 
-While I focus on genomics and genetics, my scientific interests include artificial intelligence, biology, biochemistry, bioinformatics, cancer, cellular signaling, diet, DNA metabolism, graphical models, health, knowledge stores, mathematics, metabolism, microbiology, molecular genetics, machine learning, natural language processing (NLP), networks (interactions; relational data), neuroscience, ‘omics (all), physics, programming, statistics/probabilistic models, synthetic biology, ...
+While I focus on genomics and genetics, my scientific interests include artificial intelligence, biology, biochemistry, bioinformatics, cancer, cellular signaling, diet, DNA metabolism, graphical models, health, knowledge stores, mathematics, metabolism, microbiology, molecular genetics, machine learning, natural language processing (NLP), networks (interactions; relational data), neuroscience, 'omics (all), physics, programming, statistics/probabilistic models, synthetic biology, ...
 
 My most recent (Jan 2014 - present) work predominantly revolves around:
 
