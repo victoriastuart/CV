@@ -31,14 +31,16 @@ Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthes
 
 ##CURRENT POSITION
 
-Computational Biologist Jan 2014 - present<br>
-Canada‘s Michael Smith Genome Sciences Centre, British Columbia Cancer Agency,<br>
-Suite 100, 570 W. 7th Ave., Vancouver, British Columbia. V5Z 4S6
+**Owner, Persagen Consulting**<br>
 
 ##RECENT AFFILIATIONS
 
-Owner, Persagen Consulting Jun 2009 - Dec 2013<br>
-(ad hoc: Jan 2014 - present)
+Computational Biologist Jan 2014 - Aug 2015<br>
+Canada‘s Michael Smith Genome Sciences Centre, British Columbia Cancer Agency,<br>
+Vancouver, British Columbia
+
+Owner, Persagen Consulting Jun 2009 - present<br>
+(ad hoc: Jan 2014 - Aug 2015)
 
 I‘ve been self-employed since June 2009 as a Scientific Consultant, providing scientific expertise in molecular genetics, genomics, molecular biology, other life sciences, bioinformatics and scientific review. From 2009 - 2013 I was subcontracted to Battelle Memorial Institute, Chapel Hill, N.C., providing scientific expertise and review for the U.S. Army Research Office (ARO; Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR; Washington, D.C.).
 
