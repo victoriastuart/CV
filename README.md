@@ -35,30 +35,30 @@ Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthes
 
 ####RECENT AFFILIATIONS
 
-Computational Biologist Jan 2014 - Aug 2015<br>
+* Computational Biologist Jan 2014 - Aug 2015<br>
 Canada‘s Michael Smith Genome Sciences Centre, British Columbia Cancer Agency,<br>
 Vancouver, British Columbia
 
-Owner, Persagen Consulting Jun 2009 - present<br>
+* Owner, Persagen Consulting Jun 2009 - present<br>
 (ad hoc: Jan 2014 - Aug 2015)
 
-I‘ve been self-employed since June 2009 as a Scientific Consultant, providing scientific expertise in molecular genetics, genomics, molecular biology, other life sciences, bioinformatics and scientific review. From 2009 - 2013 I was subcontracted to Battelle Memorial Institute, Chapel Hill, N.C., providing scientific expertise and review for the U.S. Army Research Office (ARO; Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR; Washington, D.C.).
+  I‘ve been self-employed since June 2009 as a Scientific Consultant, providing scientific expertise in molecular genetics, genomics, molecular biology, other life sciences, bioinformatics and scientific review. From 2009 - 2013 I was subcontracted to Battelle Memorial Institute, Chapel Hill, N.C., providing scientific expertise and review for the U.S. Army Research Office (ARO; Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR; Washington, D.C.).
 
-Research Scientist May 2001 - Nov 2008<br>
+* Research Scientist May 2001 - Nov 2008<br>
 Laboratory of Molecular Genetics<br>
 National Institute of Environmental Health Sciences<br>
 P.O. Box 12233, MD E3-01, Research Triangle Park, North Carolina 27709.
 
-Throughout this period support was provided by the U.S. Army Research Office (Research Triangle Park, Durham, North Carolina), through:
+  Throughout this period support was provided by the U.S. Army Research Office (Research Triangle Park, Durham, North Carolina), through:
 
-* Research Associateship Award May 2005 - Nov 2008<br>
+  * Research Associateship Award May 2005 - Nov 2008<br>
 National Academy of Sciences, Washington, D.C.
 
-* Research Assistant May 2002 - Apr 2005<br>
+  * Research Assistant May 2002 - Apr 2005<br>
 Department of Molecular Genetics and Microbiology<br>
 Duke University Medical Center, Durham, North Carolina
 
-* International Research Scholar May 2001 - Apr 2002<br>
+  * International Research Scholar May 2001 - Apr 2002<br>
 Department of Microbiology<br>
 North Carolina State University, Raleigh, North Carolina
 
