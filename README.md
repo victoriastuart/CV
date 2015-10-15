@@ -1,17 +1,17 @@
 https://github.com/victoriastuart/cv/blob/master/cv_web.pdf?raw=true
 
-#Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
+###Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
 Vancouver, British Columbia, Canada<br>
 Email (append *gmail.com* to): Victoria.A.Stuart
 
-##PERSONAL STATEMENT
+####PERSONAL STATEMENT
 
 My mission is to seek collaborative solutions to scientific and societal issues, addressing my vision of applying science and technology to the betterment of human health. Among my long-term goals is the advancement of knowledge in functional genomics: the phenotypic and functional expression of the information contained within genomes.
 
 In pursuit of this objective – building on a thorough grounding in biochemistry and molecular genetics – in recent years my scientific and intellectual interests have actively expanded to include informatics and computational methods. The intersection of these domains (genomics; programming; relational data; ...) enables a better understanding of functional and conceptual interactions, naturally leading to translational knowledge discovery that transcends dogmatic boundaries.
 
-##EDUCATION
+####EDUCATION
 
 * Ph.D., Biology June 2000<br>
 University of Victoria, Victoria, British Columbia, Canada<br>
@@ -29,11 +29,11 @@ Dalhousie University, Halifax, Nova Scotia, Canada<br>
 Minor: Chemistry<br>
 Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis Precursor N<sup>6</sup>-Benzoyl-Deoxyadenosine“
 
-##CURRENT POSITION
+####CURRENT POSITION
 
-**Owner, Persagen Consulting**<br>
+* Owner, Persagen Consulting<br>
 
-##RECENT AFFILIATIONS
+####RECENT AFFILIATIONS
 
 Computational Biologist Jan 2014 - Aug 2015<br>
 Canada‘s Michael Smith Genome Sciences Centre, British Columbia Cancer Agency,<br>
@@ -62,7 +62,7 @@ Duke University Medical Center, Durham, North Carolina
 Department of Microbiology<br>
 North Carolina State University, Raleigh, North Carolina
 
-##SCIENTIFIC INTERESTS
+####SCIENTIFIC INTERESTS
 
 While I focus on genomics and genetics, my scientific interests include artificial intelligence, biology, biochemistry, bioinformatics, cancer, cellular signaling, diet, DNA metabolism, graphical models, health, knowledge stores, mathematics, metabolism, microbiology, molecular genetics, machine learning, natural language processing (NLP), networks (interactions; relational data), neuroscience, 'omics (all), physics, programming, statistics/probabilistic models, synthetic biology, ...
 
@@ -89,7 +89,7 @@ Knowledge-Related:
 * relational data
 * heterogeneity
 
-##EXPERIENCE & SKILLS
+####EXPERIENCE & SKILLS
 
 * Languages & Software: LATEX, GNU Octave, Python, R
 
@@ -97,7 +97,7 @@ Knowledge-Related:
 
 * Laboratory Skills – expertise in:
 
-* Biochemistry, Molecular Biology: all aspects (28 years at bench)
+* Biochemistry, Molecular Biology: all aspects (~28 years at bench)
 
 * Chemistry: organic (polynucleotide) chemistry
 
@@ -105,7 +105,7 @@ Knowledge-Related:
 
 * Most major bio/chemical, biology, molecular genetics instrument & equipment Scientific Review: Expertise in peer review, review of scientific research proposals, with hundreds (>230) of academic genetics, genomics and life sciences proposals reviewed, ranging from US$50K - US$14M.
 
-##LEADERSHIP & SCIENTIFIC SERVICE
+####LEADERSHIP & SCIENTIFIC SERVICE
 
 * Genetics and Environmental Mutagenesis Society, Durham N.C. 2002 - 2007
 
@@ -123,7 +123,7 @@ Artificial Intelligence & Machine Learning Special Interest Group
 * Project Leader 2000 – 2001<br>
 Supervision of graduate students in: Individual Susceptibility Group, Centre for Environmental Health, Department of Biology, University of Victoria
 
-###Leadership - Extracurricular:
+#####Leadership - Extracurricular:
 
 * President 1985 - 1996<br>
 Phi Kappa Pi Fraternity, Dalhousie University, Halifax, Nova Scotia, Canada
@@ -135,7 +135,7 @@ http://groups.yahoo.com/group/durhamgenderalliance
 * Chair Feb 2009 - Jun 2009<br>
 Trans Alliance Society, Vancouver, B.C.
 
-##MENTORING & TEACHING
+####MENTORING & TEACHING
 
 * Co-Op Student Supervisor 2014 - present<br>
 B.C. Genome Sciences Centre. Various supervisory & administrative tasks
@@ -146,7 +146,7 @@ University of British Columbia: http://ubcwomeninscience.wordpress.com
 * Mentor, “Women in Science and Engineering:“ 2012 - 2014<br>
 University of British Columbia: Annual WiSE event
 
-###Teaching:
+#####Teaching:
 
 * Co-Lecturer Spring 2001; Spring 2000<br>
 Biology 437/550E, DNA Repair and Mutagenesis, University of Victoria
@@ -161,7 +161,7 @@ Department of Biology, University of Victoria
 * Laboratory Instructor 1983<br>
 Biochemistry Laboratory, Dalhousie University
 
-## HONORS & AWARDS
+#### HONORS & AWARDS
 
 * National Research Council Research Associateship Award 2005 - 2008<br>
 National Academies, Washington D.C.
@@ -181,7 +181,7 @@ Cancer Research Society Inc., Montreal, Canada
 * Undergraduate Summer Research Fellowship 1981; 1982<br>
 Natural Sciences and Engineering Research Council, Ottawa, Canada
 
-##INVITED TALKS, LECTURES
+####INVITED TALKS, LECTURES
 
 * Natural Language Laboratory Apr 09, 2014<br>
 Simon Fraser University, Burnaby, B.C.<br>
@@ -199,15 +199,11 @@ University of British Columbia, Vancouver, B.C.<br>
 National Cancer Center Research Institute, Tokyo, Japan<br>
 “A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue<sup>®</sup> transgenic mice, and aflatoxin B<sub>1</sub> in Big Blue<sup>®</sup> mice and rats“
 
-## PEER-REVIEWED PUBLICATIONS
+#### PEER-REVIEWED PUBLICATIONS
 
 Citations (Google Scholar): http://scholar.google.com/citations?user=VictoriaStuart
 
-###In Preparation or Submission
-
-Basher, A.R.M.A., Purdy, A., **Stuart, V.A.** and Birol, I. (2014) Event Extraction from Biomedical Literature: Challenges and Future Directions. In preparation for: (Oxford) Bioinformatics.
-
-###Published Papers
+#####Published Papers
 
 **Stuart, G.R.**, Copeland, W.C. and Strand, M.K. (2009) “Construction and Application of a Protein and Genetic Interaction Network (Yeast Interactome)“ Nucleic Acids Research 37, e54.
 
@@ -253,6 +249,6 @@ Pohajdak, B., Dixon, B. and **Stuart, G.R.**, Immune System, In: Biochemistry an
 
 **Stuart, G.R.** and Chambers, R.W. (1987) Synthesis and properties of oligodeoxynucleotides with an AP site at a preselected position. Nucleic Acids Research 15, 7451-7462.
 
-## References
+#### References
 
 References are available upon request (append *gmail.com* to): Victoria.A.Stuart
