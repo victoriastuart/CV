@@ -3,7 +3,7 @@ https://github.com/victoriastuart/cv/blob/master/cv_web.pdf?raw=true
 ###Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
 Vancouver, British Columbia, Canada<br>
-Email (append *gmail.com* to): Victoria.A.Stuart
+Email: <Victoria.A.Stuart@gmail.com>
 
 ####PERSONAL STATEMENT
 
@@ -31,7 +31,11 @@ Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthes
 
 ####CURRENT POSITION
 
-* Owner, Persagen Consulting<br>
+* Owner, [Persagen.com](http://Persagen.com)<br>
+* Owner, [PPMsearch.com](http://PPMsearch.com)
+
+Providing scientific expertise/solutions in the areas of molecular genetics/genomics, cancer biology, human and environmental health, bioinformatics, clinical genetics/health, computational biology, knowledge discovery, natural language processing including machine learning/cognitive computing, and scientific/peer review.
+
 
 ####RECENT AFFILIATIONS
 
