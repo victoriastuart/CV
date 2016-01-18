@@ -1,5 +1,3 @@
-https://github.com/victoriastuart/cv/blob/master/cv_web.pdf?raw=true
-
 ###Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
 Vancouver, British Columbia, Canada<br>
@@ -124,13 +122,13 @@ Knowledge-Related:
 
 ####EXPERIENCE & SKILLS
 
-Languages \& Software: (GNU) Bash/scripts, \LaTeX, GNU Octave, Julia, Python, R
+* Languages \& Software: (GNU) Bash/scripts, \LaTeX, GNU Octave, Julia, Python, R
 
-Libraries: Keras, scikit-learn, Theano, TensorFlow
+* Libraries: Keras, scikit-learn, Theano, TensorFlow
 
-Platforms: Anaconda, RStudio, Jupyter (iPython), command-line (terminal)
+* Platforms: Anaconda, RStudio, Jupyter (iPython), command-line (terminal)
 
-Operating Systems: Linux* Linux
+* Operating Systems: Linux
 
 ####LEADERSHIP & SCIENTIFIC SERVICE
 
