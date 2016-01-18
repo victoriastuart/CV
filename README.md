@@ -124,13 +124,13 @@ Knowledge-Related:
 
 ####EXPERIENCE & SKILLS
 
-**Languages \& Software:** (GNU) Bash/scripts, \LaTeX, GNU Octave, Julia, Python, R
+Languages \& Software: (GNU) Bash/scripts, \LaTeX, GNU Octave, Julia, Python, R
 
-**Libraries:** Keras, scikit-learn, Theano, TensorFlow
+Libraries: Keras, scikit-learn, Theano, TensorFlow
 
-**Platforms:** Anaconda, RStudio, Jupyter (iPython), command-line (terminal)
+Platforms: Anaconda, RStudio, Jupyter (iPython), command-line (terminal)
 
-**Operating Systems:** Linux
+Operating Systems: Linux* Linux
 
 ####LEADERSHIP & SCIENTIFIC SERVICE
 
