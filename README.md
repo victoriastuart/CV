@@ -126,8 +126,8 @@ Knowledge-Related:
 
 * Languages \& Software: (GNU) Bash/scripts, \LaTeX, GNU Octave, Java, Julia, Python, R
 * Libraries: Carrot2, Keras, scikit-learn, Theano, TensorFlow
-* Platforms: Anaconda, command-line (terminal), IntelliJ IDEA, Jupyter (iPython), RStudio, Solr
-* Operating Systemnux: Linux
+* Platforms: Anaconda, command-line, IntelliJ IDEA, Jupyter (iPython), RStudio, Solr
+* Operating Systems: Linux
 
 ####LEADERSHIP & SCIENTIFIC SERVICE
 
