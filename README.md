@@ -7,9 +7,11 @@ Email: <Victoria.A.Stuart@gmail.com>
 
 ####PERSONAL STATEMENT
 
-My mission is to seek collaborative solutions to scientific and societal issues, addressing my vision of applying science and technology to the betterment of human health. Among my long-term goals is the advancement of knowledge in functional genomics: the phenotypic and functional expression of the information contained within genomes.
+My **mission** is to seek collaborative solutions to scientific and societal issues, addressing my \textbf{vision} of applying science and technology to the betterment of human health.
 
-In pursuit of this objective – building on a thorough grounding in biochemistry and molecular genetics – in recent years my scientific and intellectual interests have actively expanded to include informatics and computational methods. The intersection of these domains (genomics; programming; relational data; ...) enables a better understanding of functional and conceptual interactions, naturally leading to translational knowledge discovery that transcends dogmatic boundaries.
+Among my long-term, "overarching" **goals** is the advancement of knowledge in functional genomics: the phenotypic and functional expression of the information contained within genomes.  In pursuit of this objective -- building on a thorough grounding in biochemistry and molecular genetics -- in recent years my scientific and intellectual interests have actively expanded to include informatics and computational methods -- including their broader application (e.g. to knowledge discovery, reasoning and cognitive computing).
+
+The intersection of these core domains (genomics; programming; machine learning; natural language processing; knowledge stores; relational data; ...) enables a better understanding of functional and conceptual interactions, naturally leading to translational knowledge discovery that transcends dogmatic boundaries.
 
 ####EDUCATION
 
@@ -68,9 +70,23 @@ North Carolina State University, Raleigh, North Carolina
 
 ####SCIENTIFIC INTERESTS
 
-While I focus on genomics and genetics, my scientific interests include artificial intelligence, biology, biochemistry, bioinformatics, cancer, cellular signaling, diet, DNA metabolism, graphical models, health, knowledge stores, mathematics, metabolism, microbiology, molecular genetics, machine learning, natural language processing (NLP), networks (interactions; relational data), neuroscience, 'omics (all), physics, programming, statistics/probabilistic models, synthetic biology, ...
+With formal training and 30+ years research experience in genomics and molecular genetics, I possess supra Ph.D.-level domain expertise in  biology, biochemistry, bioinformatics, cancer biology and genomics, cellular signaling and metabolic pathways, DNA metabolism, etc.
 
 My most recent (Jan 2014 - present) work predominantly revolves around:
+
+Molecular Biology:
+
+* all basic: cloning ...
+* transgenic rodent models
+* mitochondrial genetics}
+* DNA sequencing, analysis
+
+Microbiology:
+
+* yeast genetics
+* bacterial genetics
+* strain construction
+* mutational assays
 
 Genetics/Genomics:
 
@@ -79,35 +95,42 @@ Genetics/Genomics:
 * oncogenomics
 * pathways/networks
 
+Those experiences, combined with my natural curiosity on the nature of "information" (e.g., as encoded in DNA) and knowledge discovery, have led me to acquire and develop expertise in artificial intelligence, machine learning (including deep learning), and cognitive computing.
+
+I am especially motivated by the application (variously) of AI/ML models, graphical models, knowledge stores, deep neural nets, natural language processing (NLP), etc. to real-world problems (biology, genomics, business, societal issues, knowledge discovery), as well as exploring research directions in cognitive computing: the ability of machines to reason over data.
+
+
+My most recent work (Jan 2014 - present) predominantly revolves around:
+
 Artificial Intelligence:
 
-* clustering
-* dimensionality
-* machine learning
+* cognitive computing
+* reasoning
+* question-answering
 * NLP
+
+Machine Learning:
+
+* dimensionality
+* deep neural nets (CNN, RNN, ...)
+* vector space models
 
 Knowledge-Related:
 
+* metadata
 * graphical models
-* RDF triples; triplestores
-* relational data
-* heterogeneity
+* knowledge graph
+* triplestores; relational data
 
 ####EXPERIENCE & SKILLS
 
-* Languages & Software: LATEX, GNU Octave, Python, R
+**Languages \& Software:** (GNU) Bash/scripts, \LaTeX, GNU Octave, Julia, Python, R
 
-* Operating Systems: Linux
+**Libraries:** Keras, scikit-learn, Theano, TensorFlow
 
-* Laboratory Skills – expertise in:
+**Platforms:** Anaconda, RStudio, Jupyter (iPython), command-line (terminal)
 
-* Biochemistry, Molecular Biology: all aspects (~28 years at bench)
-
-* Chemistry: organic (polynucleotide) chemistry
-
-* Microbiology: bacterial & yeast genetics, genomics (strain constructions ...)
-
-* Most major bio/chemical, biology, molecular genetics instrument & equipment Scientific Review: Expertise in peer review, review of scientific research proposals, with hundreds (>230) of academic genetics, genomics and life sciences proposals reviewed, ranging from US$50K - US$14M.
+**Operating Systems:** Linux
 
 ####LEADERSHIP & SCIENTIFIC SERVICE
 
@@ -123,6 +146,8 @@ Knowledge-Related:
 Artificial Intelligence & Machine Learning Special Interest Group
 
 * Peer Review, Academic Journals: Acta Biochimica et Biophysica Sinica; Archives of Biochemistry and Biophysics; Cancer Letters; Environmental and Molecular Mutagenesis; Eukaryotic Cell; Functional and Integrative Genomics; Genetics; Molecular and Cellular Biology; Mutagenesis; Mutation Research; NIEHS internal reviews; Proceedings of the National Academy of Sciences of the United States of America
+
+* Scientific Review:} Expertise in peer review of scientific research proposals, with hundreds (>230) of leading-edge academic genetics, genomics and life sciences proposals reviewed, ranging from US\$50K - US\$16M.
 
 * Project Leader 2000 – 2001<br>
 Supervision of graduate students in: Individual Susceptibility Group, Centre for Environmental Health, Department of Biology, University of Victoria
