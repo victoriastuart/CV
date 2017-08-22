@@ -1,8 +1,4 @@
-https://github.com/victoriastuart/cv/blob/master/cv_web.pdf?raw=true
-
-###Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
-
-# Dr. Victoria A. Stuart, Ph.D.
+# Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
 ```
 Vancouver, British Columbia, Canada
