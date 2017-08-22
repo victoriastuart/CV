@@ -2,7 +2,6 @@
 
 ```
 Vancouver, British Columbia, Canada
-(604) 628-
 Victoria.A.Stuart@gmail.com
 ```
 ## PERSONAL
