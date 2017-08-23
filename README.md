@@ -164,7 +164,7 @@ around:
 
 - President 2006 - 2007
 - President-Elect 2005 - 2006
-- Councilor 2002 - 200
+- Councilor 2002 - 2005
 
 ### Founder, AI-SIG 2014
 Artificial Intelligence & Machine Learning Special Interest Group
