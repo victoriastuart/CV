@@ -1,12 +1,11 @@
 
 ## <center>Curriculum vitae -- Dr. Victoria A. Stuart, Ph.D.</center>
 
-
 <center>
 Vancouver, British Columbia, Canada  
 <Victoria.A.Stuart@gmail.com>
 </center>
-<br>
+
 ### PERSONAL STATEMENT
 
 I envision innovative, impactful solutions to scientific and societal issues through the application of science and technology to the betterment of human health.
@@ -22,7 +21,7 @@ These efforts build on my thorough grounding in biochemistry (B.Sc.), environmen
 I am especially motivated by information retrieval/extraction, the construction of knowledge stores and graphical models, and the application of that knowledge to real-world problems including: molecular biology, cellular signalling, cancer genomics, and personalized medicine.
 
 The union of my core domains (genomics; programming; natural language processing; machine learning; bioinformatics) enables a better understanding of implicit and explicit relationships and interactions, facilitating translational knowledge discovery.
-<br>
+
 ### EDUCATION
 
 #### Ph.D., Biology (Jun 2000)  
@@ -41,13 +40,13 @@ Thesis: "Genotoxicity of Captan Measured in the Comet Assay"
 Dalhousie University, Halifax, Nova Scotia, Canada  
 Minor: Chemistry  
 Honours Thesis: "Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis Precursor N<sup>6</sup>-Benzoyl-Deoxyadenosine"  
-<br>
+
 ### CURRENT POSITION
 
 #### Scientific Consultant (Jun 2009 - Present)  
 
 I have been self-employed since June 2009 as a Scientific Consultant, providing scientific expertise in molecular genetics, genomics, molecular biology, life sciences, bioinformatics and scientific review. During this time I was subcontracted to Battelle Memorial Institute, Chapel Hill, N.C., providing scientific expertise and review for the U.S. Army Research Office (ARO; Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR; Washington, D.C.).
-<br>
+
 ### RECENT AFFILIATIONS
 
 #### Research Scientist (May 2001 - Nov 2008)
@@ -69,7 +68,7 @@ Throughout this period support was provided by the U.S. Army Research Office
 - **International Research Scholar** (May 2001 - Apr 2002)  
     Department of Microbiology  
     North Carolina State University, Raleigh, North Carolina
-<br>
+
 ### EXPERIENCE & SKILLS
 
 With formal training and comprehensive research experience in genomics and molecular genetics, I possess *supra* Ph.D.-level domain expertise in biology, biochemistry, bioinformatics, cancer biology and genomics, cellular signaling/metabolic pathways, DNA metabolism, etc.
@@ -142,7 +141,7 @@ around:
 - [StackOverflow](https://stackoverflow.com/users/1904943/victoria-stuart)
 - [GitHub](https://github.com/victoriastuart)
 - [Gists](https://gist.github.com/victoriastuart)
-<br>
+
 ### LEADERSHIP & SCIENTIFIC SERVICE
 
 #### Genetics and Environmental Mutagenesis Society, Durham N.C. (2002 - 2007)
@@ -175,7 +174,7 @@ Supervision of graduate students in: Individual Susceptibility Group, Centre for
     Durham Gender Alliance, Durham, N.C. USA
 - **Chair** (Feb 2009 - Jun 2009)  
     Trans Alliance Society, Vancouver, B.C.
-<br>
+
 ### TEACHING & MENTORSHIP
 
 #### Teaching:
@@ -195,7 +194,7 @@ Supervision of graduate students in: Individual Susceptibility Group, Centre for
 - Undergraduate students and technical staff (various)
 - Mentor, University of British Columbia "[Women in Science](http://ubcwomeninscience.wordpress.com)" (2014 - 2015)  
 - Mentor, University of British Columbia "Women in Science and Engineering" (2012 - 2013)
-<br>
+
 ### HONORS & AWARDS
 
 **National Research Council Research Associateship Award** (2005 - 2008)  
@@ -214,7 +213,7 @@ Cancer Research Society Inc., Montreal, Canada
 
 Undergraduate Summer Research Fellowship (1981; 1982)  
 Natural Sciences and Engineering Research Council, Ottawa, Canada
-<br>
+
 ### INVITED TALKS, LECTURES
 
 Natural Language Laboratory (Apr 09, 2014)  
@@ -232,7 +231,7 @@ University of British Columbia, Vancouver, B.C.
 **Carcinogenesis Division, NCCRI** (Jan 18, 1996)  
 **National Cancer Center Research Institute, Tokyo, Japan**  
 "A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue<sup>®</sup> transgenic mice, and aflatoxin B<sub>1</sub> in Big Blue<sup>®</sup> mice and rats"
-<br>
+
 ### PEER-REVIEWED PUBLICATIONS
 
 #### Citations: [Google Scholar](http://scholar.google.com/citations?user=VictoriaStuart)
@@ -283,7 +282,7 @@ Stuart, G.R., Dixon, B. and Pohajdak, B. (1992) Isolation of a putative retrovir
 
 Stuart, G.R. and Chambers, R.W. (1987) Synthesis and properties of oligodeoxynucleotides with an AP site at a preselected position. Nucleic Acids Research 15, 7451-7462.
 
-<br>
+
 ### REFERENCES
 
 References are available upon request by e-mail to: <Victoria.A.Stuart@gmail.com>
