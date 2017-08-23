@@ -117,6 +117,7 @@ around:
 - Python
 - R
 - ML (TensorFlow/Caffe/...)
+- version control: Git; SVN
 
 ### Platforms:
 
