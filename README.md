@@ -4,9 +4,7 @@
 Vancouver, British Columbia, Canada
 Victoria.A.Stuart@gmail.com
 ```
-## PERSONAL
-
-## STATEMENT
+## PERSONAL STATEMENT
 
 ```
 I envision innovative, impactful solutions to scientific and societal issues through the applica-
@@ -63,9 +61,7 @@ Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthes
 Precursor N^6 -Benzoyl-Deoxyadenosine“
 ```
 
-## CURRENT
-
-## POSITION
+## CURRENT POSITION
 
 ```
 Scientific Consultant Jun 2009 - Present
@@ -76,9 +72,7 @@ Hill, N.C., providing scientific expertise and review for the U.S. Army Research
 Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR;
 Washington, D.C.).
 ```
-## RECENT
-
-## AFFILIATIONS
+## RECENT AFFILIATIONS
 
 ```
 Research Scientist May 2001 - Nov 2008
@@ -98,9 +92,7 @@ Throughout this period support was provided by theU.S. Army Research Office
     Department of Microbiology
     North Carolina State University, Raleigh, North Carolina
 
-## EXPERIENCE
-
-## & SKILLS
+## EXPERIENCE & SKILLS
 
 ```
 With formal training and comprehensive research experience in genomics and molecular ge-
@@ -174,11 +166,7 @@ Community:StackOverflow: https://stackoverflow.com/users/1904943/victoria-stuart
 GitHub: https://github.com/victoriastuart
 Gists: https://gist.github.com/victoriastuart
 ```
-## LEADERSHIP &
-
-## SCIENTIFIC
-
-## SERVICE
+## LEADERSHIP & SCIENTIFIC SERVICE
 
 ```
 Genetics and Environmental Mutagenesis Society, Durham N.C. 2002 - 2007
@@ -218,9 +206,7 @@ Leadership - Extracurricular:
 - Chair Feb 2009 - Jun 2009
     Trans Alliance Society, Vancouver, B.C.
 
-## TEACHING &
-
-## MENTORSHIP
+## TEACHING & MENTORSHIP
 
 ```
 Teaching:
@@ -247,9 +233,7 @@ University of British Columbia: http://ubcwomeninscience.wordpress.com
 Mentor, “Women in Science and Engineering:“ 2012 - 2014
 University of British Columbia: Annual WiSE event
 ```
-## HONORS &
-
-## AWARDS
+## HONORS & AWARDS
 
 ```
 National Research Council Research Associateship Award 2005 - 2008
@@ -274,9 +258,7 @@ Cancer Research Society Inc., Montreal, Canada
 Undergraduate Summer Research Fellowship 1981; 1982
 Natural Sciences and Engineering Research Council, Ottawa, Canada
 ```
-## INVITED TALKS,
-
-## LECTURES
+## INVITED TALKS, LECTURES
 
 ```
 Natural Language Laboratory Apr 09, 2014
@@ -301,30 +283,24 @@ National Cancer Center Research Institute, Tokyo, Japan
 “A study ofTris(2,3-dibromopropyl)-phosphate in Big Blue©Rtransgenic
 mice, and aflatoxin B 1 in Big Blue©Rmice and rats“
 ```
-## PEER-REVIEWED
+## PEER-REVIEWED PUBLICATIONS
 
-## PUBLICATIONS
+### Citations (Google Scholar):
 
-```
-Citations (Google Scholar):http://scholar.google.com/citations?user=VictoriaStuart
-```
-```
-Published Papers
-```
-```
+http://scholar.google.com/citations?user=VictoriaStuart
+
+### Published Papers
+
 Stuart, G.R., Copeland, W.C. and Strand, M.K. (2009) “Construction and Application of a
 Protein and Genetic Interaction Network (Yeast Interactome)“ Nucleic Acids Research 37,
 e54.
-```
-```
+
 Stuart, G.R., Humble, M.M., Strand, M.K. and Copeland, W.C. (2009) “Transcriptional Re-
 sponse to Mitochondrial NADH Kinase Deficiency inSaccharomyces cerevisiae.“ Mitochon-
 drion 9, 211-221.
-```
-```
+
 Stuart, G.R., Santos, J.H., Strand, M.K., Van Houten, B. and Copeland, W.C. (2006) “Mi-
 tochondrial and nuclear DNA defects inSaccharomyces cerevisiaewith mutations in DNA
-```
 
 polymeraseγassociated with progressive external ophthalmoplegia.“ Human Molecular Ge-
 netics 15, 363-374.
@@ -405,4 +381,6 @@ Stuart, G.R.and Chambers, R.W. (1987) Synthesis and properties of oligodeoxynucl
 with an AP site at a preselected position. Nucleic Acids Research 15, 7451-7462.
 
 
-REFERENCES References are available upon request by e-mail to Victoria.A.Stuart@gmail.com
+## REFERENCES
+
+References are available upon request by e-mail to Victoria.A.Stuart@gmail.com
