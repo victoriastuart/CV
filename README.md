@@ -1,55 +1,49 @@
 # Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
-Vancouver, British Columbia, Canada
-
+Vancouver, British Columbia, Canada  
 Victoria.A.Stuart@gmail.com
 
 ## PERSONAL STATEMENT
 
-I envision innovative, impactful solutions to scientific and societal issues through the applica-
-tion of science and technology to the betterment of human health.
+I envision innovative, impactful solutions to scientific and societal issues through the application of science and technology to the betterment of human health.
 
 I accomplish this through
 
 (i) the practical advancement of knowledge in functional genomics (the phenotypic and
 functional expression of the information contained withingenomes), and
 
-(ii) knowledge discovery, through natural language processing and machine learning ap-
-proaches applied to the biomedical domain.
+(ii) knowledge discovery, through natural language processing and machine learning approaches applied to the biomedical domain.
 
 These efforts build on my thorough grounding in biochemistry (B.Sc.), environmental health
-(M.Sc.), molecular genetics (Ph.D), and post-doctoral experience in informatics and knowl-
-edge discovery.
+(M.Sc.), molecular genetics (Ph.D), and post-doctoral experience in informatics and knowledge discovery.
 
 I am especially motivated by information retrieval/extraction, the construction and leveraging
 of knowledge stores and graphical models, and the application of that knowledge to real-world
 problems including: molecular biology; cellular signalling; cancer genomics; personalized
 medicine; ...
 
-The union of my core domains (genomics; programming; natural language processing; ma-
-chine learning; bioinformatics) enables a better understanding of implicit and explicit relation-
-ships and interactions, facilitating translational knowledge discovery.
+The union of my core domains (genomics; programming; natural language processing; machine learning; bioinformatics) enables a better understanding of implicit and explicit relationships and interactions, facilitating translational knowledge discovery.
 
 ## EDUCATION
 
-### Ph.D., Biology Jun 2000
-University of Victoria, Victoria, British Columbia, Canada
-Specialization: Molecular Genetics: Mechanisms of Mutagenesis & Carcinogenesis
-Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity
-in Big Blue© lacI Transgenic Rodents“
+### Ph.D., Biology Jun 2000  
+University of Victoria, Victoria, British Columbia, Canada  
+Specialization: Molecular Genetics: Mechanisms of Mutagenesis & Carcinogenesis  
+Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity  
+in Big Blue© lacI Transgenic Rodents“  
 
-### M.Sc., Occupational Hygiene May 1995
-Occupational Hygiene Programme
-[now the School of Environmental Health]
-University of British Columbia, Vancouver, British Columbia, Canada
-Specialization: Molecular Epidemiology
-Thesis: “Genotoxicity of Captan Measured in the Comet Assay“
+### M.Sc., Occupational Hygiene May 1995  
+Occupational Hygiene Programme  
+[*now the School of Environmental Health*]  
+University of British Columbia, Vancouver, British Columbia, Canada  
+Specialization: Molecular Epidemiology  
+Thesis: “Genotoxicity of Captan Measured in the Comet Assay“  
 
 ### B.Sc. with Honours, Biochemistry Oct 1983
-Dalhousie University, Halifax, Nova Scotia, Canada
-Minor: Chemistry
-Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis
-Precursor N^6 -Benzoyl-Deoxyadenosine“
+Dalhousie University, Halifax, Nova Scotia, Canada  
+Minor: Chemistry  
+Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis  
+Precursor N^6 -Benzoyl-Deoxyadenosine“  
 
 ## CURRENT POSITION
 
@@ -68,7 +62,7 @@ Laboratory of Molecular Genetics
 [now the Genome Integrity and Structural Biology Laboratory]
 National Institute of Environmental Health Sciences
 P.O. Box 12233, MD E3-01, Research Triangle Park, North Carolina 27709.
-Throughout this period support was provided by theU.S. Army Research Office
+Throughout this period support was provided by the U.S. Army Research Office
 (Research Triangle Park, Durham, North Carolina), through:
 
 - Research Associateship Award May 2005 - Nov 2008
@@ -82,8 +76,7 @@ Throughout this period support was provided by theU.S. Army Research Office
 
 ## EXPERIENCE & SKILLS
 
-With formal training and comprehensive research experience in genomics and molecular ge-
-netics, I possesssupraPh.D.-level domain expertise in biology, biochemistry, bioinformatics,
+With formal training and comprehensive research experience in genomics and molecular genetics, I possesssupraPh.D.-level domain expertise in biology, biochemistry, bioinformatics,
 cancer biology and genomics, cellular signaling/metabolic pathways, DNA metabolism, etc.
 
 ### Molecular Biology:
@@ -107,8 +100,7 @@ cancer biology and genomics, cellular signaling/metabolic pathways, DNA metaboli
 - oncogenomics
 - pathways/networks
 
-Supplementing this experience is my acquisition of more recent training/expertise in program-
-ming and bioinformatics. My more recent work (Jan 2014 - present) predominantly revolves
+Supplementing this experience is my acquisition of more recent training/expertise in programming and bioinformatics. My more recent work (Jan 2014 - present) predominantly revolves
 around:
 
 ### Machine Learning:
@@ -172,10 +164,7 @@ Artificial Intelligence & Machine Learning Special Interest Group
 
 ### Peer Review, Academic Journals:
 
-Acta Biochimica et Biophysica Sinica; Archives of Bio-
-chemistry and Biophysics; Cancer Letters; Environmental and Molecular Mutagenesis; Eu-
-karyotic Cell; Functional and Integrative Genomics; Genetics; Molecular and Cellular Biol-
-ogy; Mutagenesis; Mutation Research; NIEHS internal reviews; Proceedings of the National
+Acta Biochimica et Biophysica Sinica; Archives of Biochemistry and Biophysics; Cancer Letters; Environmental and Molecular Mutagenesis; Eukaryotic Cell; Functional and Integrative Genomics; Genetics; Molecular and Cellular Biology; Mutagenesis; Mutation Research; NIEHS internal reviews; Proceedings of the National
 Academy of Sciences of the United States of America
 
 ### Scientific Review:
@@ -274,15 +263,11 @@ Stuart, G.R., Copeland, W.C. and Strand, M.K. (2009) “Construction and Applica
 Protein and Genetic Interaction Network (Yeast Interactome)“ Nucleic Acids Research 37,
 e54.
 
-Stuart, G.R., Humble, M.M., Strand, M.K. and Copeland, W.C. (2009) “Transcriptional Re-
-sponse to Mitochondrial NADH Kinase Deficiency inSaccharomyces cerevisiae.“ Mitochon-
-drion 9, 211-221.
+Stuart, G.R., Humble, M.M., Strand, M.K. and Copeland, W.C. (2009) “Transcriptional Response to Mitochondrial NADH Kinase Deficiency inSaccharomyces cerevisiae.“ Mitochondrion 9, 211-221.
 
-Stuart, G.R., Santos, J.H., Strand, M.K., Van Houten, B. and Copeland, W.C. (2006) “Mi-
-tochondrial and nuclear DNA defects inSaccharomyces cerevisiaewith mutations in DNA
+Stuart, G.R., Santos, J.H., Strand, M.K., Van Houten, B. and Copeland, W.C. (2006) “Mitochondrial and nuclear DNA defects inSaccharomyces cerevisiaewith mutations in DNA
 
-polymeraseγassociated with progressive external ophthalmoplegia.“ Human Molecular Ge-
-netics 15, 363-374.
+polymeraseγassociated with progressive external ophthalmoplegia.“ Human Molecular Genetics 15, 363-374.
 
 Thornton, A.S., Oda, Y.,Stuart, G.R., Holcroft, J. and de Boer, J.G. (2004) “The dioxin TCDD
 protects against aflatoxin-induced mutation in female rats, but not in male rats.“ Mutation
@@ -319,16 +304,14 @@ mutation frequency or specificity in dietary restricted mice. Carcinogenesis 21,
 Stuart, G.R.and Glickman, B.W. (2000) Through a glass, darkly: Reflections of mutation
 from lacI transgenic mice. Genetics 155, 1359-1367.
 
-Stuart, G.R., Thorleifson, E., Okochi, E., de Boer, J.G., Ushijima, T.,Nagao, M. and Glick-
-man, B.W. (2000) Interpretation of mutational spectra fromdifferent genes: Analyses of PhIP-
+Stuart, G.R., Thorleifson, E., Okochi, E., de Boer, J.G., Ushijima, T.,Nagao, M. and Glickman, B.W. (2000) Interpretation of mutational spectra fromdifferent genes: Analyses of PhIP-
 induced mutational specificity in the lacI and cII transgenes from colon of Big Blue©R rats.
 Mutation Research 452, 101-121.
 
 Stuart, G.R., Influences of Ageing and Diet on Mutational Frequency and Specificity in Big
 Blue© lacI Transgenic Rodents. Ph.D. Dissertation, University of Victoria, 1999.
 
-Okonogi, H.,Stuart, G.R., Okochi, E., Ushijima, T., Sugimura, T., Glickman, B.W. andNa-
-gao, M. (1997) Effects of gender and species on spectra of mutation induced by 2-amino-1-
+Okonogi, H.,Stuart, G.R., Okochi, E., Ushijima, T., Sugimura, T., Glickman, B.W. and Nagao, M. (1997) Effects of gender and species on spectra of mutation induced by 2-amino-1-
 methyl-6-phenylimidazo[4,5-b]pyridine in the lacI transgene. Mutation Research 395, 93-99.
 
 Dycaico, M.J.,Stuart, G.R., Tobal, G.M., de Boer, J.G., Glickman, B.W. and Provost, G.S.
@@ -337,15 +320,12 @@ lambda/lacI transgenic rats and mice following exposure to aflatoxin B 1. Carcin
 2347-2356.
 
 Stuart, G.R., Gorelick, N.J., Andrews, J.L., de Boer, J.G. and Glickman,B.W. (1996) The
-genetic analysis of lacI mutations in sectored plaques from Big Blue©Rtransgenic mice. Envi-
-ronmental and Molecular Mutagenesis 28, 385-392.
+genetic analysis of lacI mutations in sectored plaques from Big Blue©Rtransgenic mice. Environmental and Molecular Mutagenesis 28, 385-392.
 
-Mazur-Melnyk, M.,Stuart, G.R.and Glickman, B.W. (1996) Benzo[a]pyrene diol-epoxide in-
-duces loss of heterozygosity in a Chinese hamster ovaryaprtheterozygote. Mutation Research
+Mazur-Melnyk, M.,Stuart, G.R.and Glickman, B.W. (1996) Benzo[a]pyrene diol-epoxide induces loss of heterozygosity in a Chinese hamster ovaryaprtheterozygote. Mutation Research
 358, 89-96.
 
-Stuart, G.R., Application of the single-cell gel electrophoresis (‘Comet‘) assay to lympho-
-cytes exposed in vitro to captan, a fungicide. M.Sc. Thesis,University of British Columbia,
+Stuart, G.R., Application of the single-cell gel electrophoresis (‘Comet‘) assay to lymphocytes exposed in vitro to captan, a fungicide. M.Sc. Thesis,University of British Columbia,
 1995.
 
 Pohajdak, B., Dixon, B. andStuart, G.R., Immune System, In: Biochemistry and Molecular
