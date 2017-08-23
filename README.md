@@ -24,7 +24,7 @@ The union of my core domains (genomics; programming; natural language processing
 ### Ph.D., Biology Jun 2000  
 University of Victoria, Victoria, British Columbia, Canada  
 Specialization: Molecular Genetics: Mechanisms of Mutagenesis & Carcinogenesis  
-Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue© lacI Transgenic Rodents“  
+Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue<sup>®</sup> lacI Transgenic Rodents“  
 
 ### M.Sc., Occupational Hygiene May 1995  
 Occupational Hygiene Programme  
@@ -226,7 +226,7 @@ University of British Columbia, Vancouver, B.C.
 
 Carcinogenesis Division, NCCRI Jan 18, 1996  
 National Cancer Center Research Institute, Tokyo, Japan  
-“A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue© transgenic mice, and aflatoxin B1 in Big Blue© mice and rats“
+“A study of Tris(2,3-dibromopropyl)-phosphate in Big Blue<sup>®</sup> transgenic mice, and aflatoxin B1 in Big Blue<sup>®</sup> mice and rats“
 
 ## PEER-REVIEWED PUBLICATIONS
 
@@ -246,11 +246,11 @@ Thornton, A.S., Oda, Y.,Stuart, G.R., Holcroft, J. and de Boer, J.G. (2004) “T
 
 Strand, M.K.,Stuart, G.R., Longley, M.J., Graziewicz, M.A., Dominick, O.C. and Copeland, W.C. (2003) “POS5 Gene of Saccharomyces cerevisiae encodes a mitochondrial NADH kinase required for stability of mitochondrial DNA.“ Eukaryotic Cell 2, 809-820.
 
-Yang, H.,Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Modulation of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine-induced mutation in the cecum and colon of Big Blue© rats by conjugated linoleic acid and 1,2-dithiole-3-thione. Nutrition and Cancer 39, 259-266.
+Yang, H.,Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Modulation of 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine-induced mutation in the cecum and colon of Big Blue<sup>®</sup> rats by conjugated linoleic acid and 1,2-dithiole-3-thione. Nutrition and Cancer 39, 259-266.
 
 Stuart, G.R., de Boer, J.G., Haesevoets, R., Holcroft, J., Kangas, J., Sojonky, K., Thorleifson, E., Thornton, A., Walsh, D.F., Yang, H. and Glickman, B.W. (2001) Mutations induced by 2-amino-1-methyl-6-phenylimidazo [4,5-b]pyridine (PhIP) in cecum and proximal and distal colon of lacI transgenic rats. Mutagenesis 16, 431-437.
 
-Thornton, A.S., Oda, Y.,Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Mutagenicity of TCDD in Big Blue© transgenic rats. Mutation Research 478, 45-50.
+Thornton, A.S., Oda, Y.,Stuart, G.R., Glickman, B.W. and de Boer, J.G. (2001) Mutagenicity of TCDD in Big Blue<sup>®</sup> transgenic rats. Mutation Research 478, 45-50.
 
 Stuart, G.R., Holcroft, J., de Boer, J.G. and Glickman, B.W. (2000) Prostate mutations in rats induced by the suspected human carcinogen 2-amino-1-methyl-6-phenyl-imidazo[4,5-b]pyridine. Cancer Research 60, 266-268.
 
@@ -260,15 +260,15 @@ Stuart, G.R., Oda, Y., de Boer, J.G. and Glickman, B.W. (2000) No change in spon
 
 Stuart, G.R.and Glickman, B.W. (2000) Through a glass, darkly: Reflections of mutation from lacI transgenic mice. Genetics 155, 1359-1367.
 
-Stuart, G.R., Thorleifson, E., Okochi, E., de Boer, J.G., Ushijima, T.,Nagao, M. and Glickman, B.W. (2000) Interpretation of mutational spectra from different genes: Analyses of PhIP-induced mutational specificity in the lacI and cII transgenes from colon of Big Blue© rats. Mutation Research 452, 101-121.
+Stuart, G.R., Thorleifson, E., Okochi, E., de Boer, J.G., Ushijima, T.,Nagao, M. and Glickman, B.W. (2000) Interpretation of mutational spectra from different genes: Analyses of PhIP-induced mutational specificity in the lacI and cII transgenes from colon of Big Blue<sup>®</sup> rats. Mutation Research 452, 101-121.
 
-Stuart, G.R., Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue© lacI Transgenic Rodents. Ph.D. Dissertation, University of Victoria, 1999.
+Stuart, G.R., Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue<sup>®</sup> lacI Transgenic Rodents. Ph.D. Dissertation, University of Victoria, 1999.
 
 Okonogi, H.,Stuart, G.R., Okochi, E., Ushijima, T., Sugimura, T., Glickman, B.W. and Nagao, M. (1997) Effects of gender and species on spectra of mutation induced by 2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine in the lacI transgene. Mutation Research 395, 93-99.
 
 Dycaico, M.J.,Stuart, G.R., Tobal, G.M., de Boer, J.G., Glickman, B.W. and Provost, G.S. (1996) Species-specific differences in hepatic mutant frequency and mutational spectrum among lambda/lacI transgenic rats and mice following exposure to aflatoxin B 1. Carcinogenesis 17, 2347-2356.
 
-Stuart, G.R., Gorelick, N.J., Andrews, J.L., de Boer, J.G. and Glickman,B.W. (1996) The genetic analysis of lacI mutations in sectored plaques from Big Blue© transgenic mice. Environmental and Molecular Mutagenesis 28, 385-392.
+Stuart, G.R., Gorelick, N.J., Andrews, J.L., de Boer, J.G. and Glickman,B.W. (1996) The genetic analysis of lacI mutations in sectored plaques from Big Blue<sup>®</sup> transgenic mice. Environmental and Molecular Mutagenesis 28, 385-392.
 
 Mazur-Melnyk, M.,Stuart, G.R.and Glickman, B.W. (1996) Benzo[a]pyrene diol-epoxide induces loss of heterozygosity in a Chinese hamster ovary aprt heterozygote. Mutation Research 358, 89-96.
 
