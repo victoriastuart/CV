@@ -24,8 +24,7 @@ The union of my core domains (genomics; programming; natural language processing
 ### Ph.D., Biology Jun 2000  
 University of Victoria, Victoria, British Columbia, Canada  
 Specialization: Molecular Genetics: Mechanisms of Mutagenesis & Carcinogenesis  
-Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity  
-in Big Blue© lacI Transgenic Rodents“  
+Dissertation: “Influences of Ageing and Diet on Mutational Frequency and Specificity in Big Blue© lacI Transgenic Rodents“  
 
 ### M.Sc., Occupational Hygiene May 1995  
 Occupational Hygiene Programme  
@@ -37,8 +36,7 @@ Thesis: “Genotoxicity of Captan Measured in the Comet Assay“
 ### B.Sc. with Honours, Biochemistry Oct 1983
 Dalhousie University, Halifax, Nova Scotia, Canada  
 Minor: Chemistry  
-Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis  
-Precursor N^6 -Benzoyl-Deoxyadenosine“  
+Honours Thesis: “Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis Precursor N^6 -Benzoyl-Deoxyadenosine“  
 
 ## CURRENT POSITION
 
