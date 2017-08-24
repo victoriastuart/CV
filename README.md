@@ -45,7 +45,7 @@ Honours Thesis: "Dimroth Rearrangement of the Oligodeoxyribonucleotide Synthesis
 
 #### Scientific Consultant (Jun 2009 - Present)  
 
-I have been self-employed since June 2009 as a Scientific Consultant, providing scientific expertise in molecular genetics, genomics, molecular biology, life sciences, bioinformatics and scientific review. During this time I was subcontracted to Battelle Memorial Institute, Chapel Hill, N.C., providing scientific expertise and review for the U.S. Army Research Office (ARO; Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR; Washington, D.C.).
+I have been self-employed since June 2009 as a Scientific Consultant (owner: [Persagen.com](http://persagen.com/)), providing scientific expertise in molecular genetics, genomics, molecular biology, life sciences, bioinformatics and scientific review. During this time I was subcontracted to Battelle Memorial Institute, Chapel Hill, N.C., providing scientific expertise and review for the U.S. Army Research Office (ARO; Durham, N.C.), and the U.S. Army Center for Environmental Health Research (USACEHR; Washington, D.C.).
 
 ### RECENT AFFILIATIONS
 
