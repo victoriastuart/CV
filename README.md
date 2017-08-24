@@ -141,7 +141,8 @@ around:
 
 - [StackOverflow](https://stackoverflow.com/users/1904943/victoria-stuart)
 - [GitHub](https://github.com/victoriastuart)
-- [Gists](https://gist.github.com/victoriastuart)
+ - [GitHub Gists](https://gist.github.com/victoriastuart)
+ - [GitHub Issues](https://www.google.com/search?num=20&q=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&oq=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&gs_l=psy-ab.12...0.0.0.3196.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0.XhmLQhgVmnc) { opened | referenced | commented }
 
 ### LEADERSHIP & SCIENTIFIC SERVICE
 
