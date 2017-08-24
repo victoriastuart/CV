@@ -120,6 +120,7 @@ around:
 
 - command-line: bash scripts, ...
 - LaTeX
+- neovim (vim)
 - Python
 - R
 - ML (TensorFlow/Caffe/...)
