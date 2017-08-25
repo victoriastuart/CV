@@ -35,7 +35,7 @@ I am a moderate contributor to:
  * [StackOverflow](https://stackoverflow.com/users/1904943/victoria-stuart)
  * [GitHub](https://github.com/victoriastuart)
  * [GitHub Gists](https://gist.github.com/victoriastuart)
- * [GitHub Issues](https://www.google.com/search?num=20&q=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&oq=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&gs_l=psy-ab.12...0.0.0.3196.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0.XhmLQhgVmnc) { opened | referenced | commented }
+ * [GitHub Issues](https://www.google.com/search?num=20&q=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&oq=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&gs_l=psy-ab.12...0.0.0.3196.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0.XhmLQhgVmnc) { opened \| referenced \| commented }
 
 Regarding machine learning (ML), for a period of ~1.5+ years (2015-2017) I immersed myself in that domain (arXiv; reddit ML subreddit; Y Combinator "Hacker News"; RSS feeds).  I can follow the literature, install and debug the major platforms (Theano; Caffe; Torch7; TensorFlow; etc.  I have posted contributions/solutions associated with various GitHub "Issues" and some StackOverflow.com questions, and I can clone and implement basic models as well as follow the recent literature (that is progressing at a staggering pace).
 
@@ -120,7 +120,7 @@ Subsequent stages could involve
 
 I believe that all of these aims are fully tractable, and I have been working toward their realization.  I also believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
 
-As such, I am challenging opportunities relating to this, or related work.  I like to pursue challenging opportunities and high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice (Canadian citizenship).  I also have much experience working remotely; e.g., my lengthy consultancy with the U.S. DoD.
+I am seeking challenging opportunities relevant to this, or related, work.  I like to pursue challenging opportunities and high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice (Canadian citizenship).  I also have much experience working remotely; e.g., my lengthy consultancy with the U.S. DoD.
 
 In closing, I possess superior technical (laboratory), communication (verbal; written), record-keeping and leadership skills.  I am an ambitious, imaginative, team-orientated, and reliable individual.
 
@@ -131,6 +131,6 @@ Vancouver, B.C.
 
 ## Miscellany:
 
-My [curriculum vitae](\.\./cv.pdf) (pdf)
+My [curriculum vitae](http://victoriastuart.ca/cv.pdf) (pdf)
 
 E-mail me [here](mailto:Victoria.A.Stuart@gmail.com)
