@@ -5,13 +5,9 @@ permalink: /about/
 ---
 ## Introduction
 
-Hello!  As indicated in [my C.V.](http://victoriastuart.ca/cv.pdf) (http://victoriastuart.ca/cv.pdf) I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with additional computational expertise.
+I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with considerable additional computational expertise.  The summary below provides a reasonably complete overview of me and my overlapping personal and professional pursuits.
 
-I possess a unique and well-honed wealth of knowledge and experience, reflecting my intellect and drive (passion for knowledge).  The summary below will provide a reasonably complete, if superficial overview of who I am and what drives my professional pursuits.
-
-I am currently free to pursue challenging opportunities that provide a "good fit" with short-term and long-term visions, on both sides.  I seek high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice.  I also have much experience working remotely (e.g. my lengthy consultancy with the U.S. DoD).
-
-I possess a wealth of knowledge and experience in molecular genetics, spanning
+I possess a unique and well-honed wealth of knowledge and experience, spanning
 
  * biochemistry; cell biology; metabolic pathways; cellular signaling pathways
  * molecular genetics and genomics, including cancer biology
@@ -122,11 +118,13 @@ Subsequent stages could involve
  * constructing in silico models of metabolic and cellular signaling pathways,
    to aid personalized medicine and basic research ...
 
-While those are ambitious goals, all of these aims are fully tractable (mostly in the near-term).
+I believe that all of these aims are fully tractable, and I have been working toward their realization.  I also believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
 
-Following a prolonged period of consulting work for the U.S. DoD (see my C.V.), I have been working full-time since 2015 toward these goals.  I believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
+As such, I am challenging opportunities relating to this, or related work.  I like to pursue challenging opportunities and high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice.  I also have much experience working remotely (e.g. my lengthy consultancy with the U.S. DoD).
 
-If you find my expertise relevant to current positions, research projects etc. please do not hesitate to contact me.  I am able to work remotely (online), but I am also willing and able to relocate as needed (Canadian citizenship).
+In closing, I possess superior technical (laboratory), communication (verbal; written), record-keeping and leadership skills.  I am an ambitious, imaginative, team-orientated, and reliable individual.
+
+If you find my expertise relevant to this, or perhaps another, position please do not hesitate to contact me.  I am willing and able to relocate, as needed (Canadian citizenship).
 
 Dr. Victoria A. Stuart, Ph.D.
 Vancouver, B.C.
