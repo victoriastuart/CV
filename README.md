@@ -4,7 +4,6 @@
 <center>
 Vancouver, British Columbia, Canada  
 </center>
-
-<br />
+<br /><br />
 
 **[Curriculum vitae](https://persagen.com/about/victoria/cv.pdf)**
